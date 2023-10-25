@@ -50,7 +50,9 @@ author:
 menu:
   - title:             Call for papers
     url:               /cfp/
-  - title:             Practical
+ - title:              Program
+    url:               /program/  
+  - title:             Practical informations
     url:               /practical/
   - title:             About
     url:               /about/
