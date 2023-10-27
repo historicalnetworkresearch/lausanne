@@ -8,6 +8,8 @@ cover: false
 ---
 
 # Call for papers
+* table of contents
+{:toc}
 
 The call for paper will be updated soon.
 {:.note title="Update"}
