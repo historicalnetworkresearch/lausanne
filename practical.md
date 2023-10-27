@@ -8,6 +8,8 @@ cover: false
 ---
 
 # Practical informations
+* table of contents
+{:toc}
 
 ## Registration
 The conference is free of charge. Please note that the conference does not cover travel or accommodation expenses for participants.
