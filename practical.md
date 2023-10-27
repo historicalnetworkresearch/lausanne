@@ -9,7 +9,7 @@ Registration will open in spring 2024.
 
 The conference takes place in the Synathlon building, on the campus of the University of Lausanne, Switzerland. 
 
-See [general map](https://maps.app.goo.gl/uyvhtU5re6MYrhiYA) | [campus map](https://planete.unil.ch/?batiment=SYN)
+See [general map](https://maps.app.goo.gl/uyvhtU5re6MYrhiYA) and [campus map](https://planete.unil.ch/?batiment=SYN)
 
 It's just 200 meters from the shores of Lake Geneva, whose beaches stretch for several kilometers: don't forget your bathing suit!
 
