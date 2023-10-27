@@ -1,5 +1,7 @@
 # Program
 
+## Overview
+
 Final conference program to be announced in spring 2024
 
 | Monday 8 July  |  Tuesday 9 July | Wednesday 10 July  | 
@@ -8,3 +10,6 @@ Final conference program to be announced in spring 2024
 | Workshops  | Paper sessions  | Paper sessions |
 | Opening keynote | Paper sessions | Closing keynote  |
 
+## Keynote lecture
+
+**Mathieu Jacomy**, Assistant Professor at the University of Aalborg in Copenhagen (Denmark). See [reticular.hypotheses.org](https://reticular.hypotheses.org/)
