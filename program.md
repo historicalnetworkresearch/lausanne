@@ -12,6 +12,7 @@ cover: false
 ## Overview
 
 Final conference program to be announced in spring 2024
+{:.note title="Update"}
 
 | Monday 8 July  |  Tuesday 9 July | Wednesday 10 July  | 
 |---|---|---|
