@@ -14,12 +14,12 @@ The conference is organized with the support of the [History Department of the U
 
 Coordination: **Martin Grandjean** ([mail](mailto:martin.grandjean@unil.ch))
 
-<a href="https://unil.ch/hist/home.html"><img src="img/unil.png" style="width:180px"></a>
+<a href="https://unil.ch/hist/home.html"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/unil_hist.png" style="width:180px"></a>
 
 ## The Historical Network Research Community
 The [Historical Network Research Community](https://historicalnetworkresearch.org/) brings together researchers interested in the application of network analysis to historical disciplines. In addition to the [HNR Conference and HNR Workshops](https://historicalnetworkresearch.org/hnr-events/), it publishes the [Journal of Historical Network Research](https://jhnr.uni.lu/index.php/jhnr/index) and compiles a collaborative [bibliography](https://historicalnetworkresearch.org/bibliography/).
 
-<a href="https://historicalnetworkresearch.org/"><img src="img/hnr_logo_vector.png" style="width:200px"></a>
+<a href="https://historicalnetworkresearch.org/"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/hnr_logo_vector.png" style="width:200px"></a>
 
 ## Scientific Committee
 
