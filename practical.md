@@ -28,7 +28,7 @@ There are several food options on campus, in nearby buildings (5-8 minutes' walk
 
 ## Transportation
 
-The University of Lausanne campus is well served by the M1 metro line. The journey takes about ten minutes from the city center (Lausanne-Flon stop) to the university (UNIL-Chamberonne stop).
+The University of Lausanne campus is well served by the M1 metro line. The journey takes about ten minutes from the city center (Lausanne-Flon stop) to the university (UNIL-Chamberonne stop) and costs CHF 3.70 (one-way full fare).
 
 ## Online participation
 
