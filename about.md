@@ -24,3 +24,4 @@ The [Historical Network Research Community](https://historicalnetworkresearch.or
 ## Scientific Committee
 
 TBA
+{:.note title="Update"}
