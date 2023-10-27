@@ -9,4 +9,5 @@ cover: false
 
 # Call for papers
 
-More soon...
+The call for paper will be updated soon.
+{:.note title="Update"}
