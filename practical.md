@@ -25,7 +25,7 @@ See [general map](https://maps.app.goo.gl/uyvhtU5re6MYrhiYA) and [campus map](ht
 
 It's just 200 meters from the shores of Lake Geneva, whose beaches stretch for several kilometers: don't forget your bathing suit!
 
-There are several food options on campus, in nearby buildings (5-8 minutes' walk). A meal usually costs around CHF 12-15.
+There are several food options on campus, in nearby buildings (5-8 minutes' walk). A meal usually costs around CHF 8-15, a sandwich around CHF 5-9.
 
  ![Campus map](/img/campusmap.png)
 
