@@ -24,4 +24,5 @@ Final conference program to be announced in spring 2024
 
 ## Keynote lecture
 
+<img src="img/mathieu-jacomy-round.jpg" width="100"> 
 Dr **[Mathieu Jacomy](https://vbn.aau.dk/en/persons/144218)**, Assistant Professor at the University of Aalborg in Copenhagen (Denmark). See also [reticular.hypotheses.org](https://reticular.hypotheses.org/)
