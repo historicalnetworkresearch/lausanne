@@ -27,6 +27,8 @@ It's just 200 meters from the shores of Lake Geneva, whose beaches stretch for s
 
 There are several food options on campus, in nearby buildings (5-8 minutes' walk). A meal usually costs around CHF 12-15.
 
+ ![Campus map](/img/campusmap.png)
+
 ### Online participation
 
 The conference is an on-site event, but streaming of sessions is planned. 
