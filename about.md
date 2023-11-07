@@ -13,7 +13,7 @@ cover: false
 ## Organization
 The conference is organized with the support of the [History Department of the University of Lausanne (UNIL)](https://unil.ch/hist/home.html) and the [Centre for Cultural History (UNIL)](https://www.unil.ch/shc/home.html). The workshops are supported by the [Atelier des Histoires (UNIL)](https://www.unil.ch/atelier-des-histoires/fr/home.html).
 
-<a href="https://unil.ch/hist/home.html"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/unil_all.png" style="width:500px"></a>
+<a href="https://unil.ch/hist/home.html"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/unil_all.png" style="width:600px"></a>
 
 ## The Historical Network Research Community
 The [Historical Network Research Community](https://historicalnetworkresearch.org/) brings together researchers interested in the application of network analysis to historical disciplines. In addition to the [HNR Conference and HNR Workshops](https://historicalnetworkresearch.org/hnr-events/), it publishes the [Journal of Historical Network Research](https://jhnr.uni.lu/index.php/jhnr/index) and compiles a collaborative [bibliography](https://historicalnetworkresearch.org/bibliography/).
