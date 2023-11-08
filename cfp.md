@@ -28,7 +28,8 @@ For our 2024 conference, we welcome contributions discussing any historical peri
 * Applications of network analysis to history, art history, ancient history, intellectual history, economic history, social history, media history, political history, history of religions, biography, public history, micro-history, postcolonial history, global history, archaeology, literary history, cultural history, etc. 
 * Analysis of specific network types, such as geospatial networks, temporal and dynamic networks, bipartite networks, multi-layer networks, multiplex networks,  etc.
 * Methodological contributions concerning the applicability of network analysis to history, including, for example, modeling, ontologies, linked data, the use of graph metrics, visual network analysis, etc.
-* Pedagogical contributions, presenting teaching scenarios, literacy questions, software or feature presentations, interfaces, etc. 
+* Pedagogical contributions, presenting teaching scenarios, literacy questions, software or feature presentations, interfaces, etc.
+
 ## Formats
 ### Long papers
 Long papers consist of a 20-minute presentation followed by 10 minutes of discussion, and are intended to present comprehensive research. An abstract of 500-1000 words is required, including at least 3 citations. It should contain a description of the paper's subject and research questions, an overview of the data used and methods employed, a discussion of the research results and possibly the wider implication for network analysis in history.
