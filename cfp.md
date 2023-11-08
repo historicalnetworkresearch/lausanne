@@ -49,7 +49,7 @@ Short papers consist of a 10-minute presentation followed by 5 minutes of discus
 
 ### Submission
 
-Abstracts must be submitted via the conference management platform (https://hnr2024.sciencesconf.org/) by January 31, 2024. 
+Abstracts must be submitted via the conference management platform ([https://hnr2024.sciencesconf.org/](https://hnr2024.sciencesconf.org/)) by January 31, 2024. 
 
 The author (or corresponding author in the case of multi-authored papers) must create an account on the platform and then fill in the form, copying the abstract in full text (no PDF or other attachments). 
 
