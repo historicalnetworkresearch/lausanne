@@ -7,7 +7,7 @@ hide_image: false
 cover: false
 ---
 
-# About
+# Organization and scientific committee
 * table of contents
 {:toc}
 ## Organization
