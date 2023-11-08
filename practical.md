@@ -8,8 +8,6 @@ cover: false
 ---
 
 # Practical informations
-* table of contents
-{:toc}
 
 ## The conference
 ### Registration
