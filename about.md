@@ -29,3 +29,7 @@ Coordination: **Martin Grandjean** ([mail](mailto:martin.grandjean@unil.ch))
 
 TBA
 {:.note title="Update"}
+
+## Credits
+
+This website is [hosted on Github](https://github.com/historicalnetworkresearch/lausanne)https://github.com/historicalnetworkresearch/lausanne and archived on Zenodo with DOI...
