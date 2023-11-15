@@ -10,6 +10,9 @@ cover: false
 # Call for papers
 
 The Historical Network Research community is very pleased to announce the call for papers for the Historical Networks Research conference 2024 which will take place at the University of Lausanne (Switzerland), from Monday 8 July until Wednesday 10 July, 2024. 
+
+<button class="button button1" onclick="window.location.href='/aac';">Cet appel à communications est aussi disponible en français</button>
+
 ## The Historical Network Research Conference
 ### Historical networks
 The phenomena studied by the historical sciences are, by their very nature, complex situations: they involve, for example, interwoven personal relationships, collective dynamics that structure social and cultural space, or political and economic systems that operate at local and global levels. The network metaphor is frequently used to describe this entanglement. In recent decades, however, historians have begun to think about ways of formalizing this approach, appropriating the concepts and tools of graph theory to provide a new perspective on archives. The application of formal network analysis to history is now a highly fertile field of experimentation and research. It can be used to analyze the geographical logics of major circulation networks, to highlight brokers in affiliation networks, to compile family trees to reveal their points of contact, to study the occurrences and co-occurrences of concepts in serial texts, to show the evolution of personal social networks, etc. And through a great deal of empirical work, the specific features that historical disciplines bring to network science become apparent: particular attention to the modeling of data that is often incomplete and uncertain, the need to take account of temporality in all its finesse, the necessity to find a language that allows mathematical results to be interpreted in a qualitative narrative. 
