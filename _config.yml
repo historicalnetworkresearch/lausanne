@@ -58,8 +58,10 @@ menu:
     url:               /program/  
   - title:             Practical informations
     url:               /practical/
-  - title:             Organization and scientific committee
+  - title:             Organization
     url:               /about/
+  - title:             Scientific Committee
+    url:               /committee/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
