@@ -44,6 +44,10 @@ The author (or corresponding author in the case of multi-authored papers) must c
 Citations should use the Chicago Manual of Style 17th Edition Author Date style (author-date in the text, then full reference at the end). 
 
 Including an image in the abstract is encouraged to allow a general discussion of our network visualization practices. If, for any reason, the submitted version does not contain any, authors of accepted papers will be invited to add an image and caption at a later stage. Abstracts and images will then be published on the conference website ahead of the event and archived in a book of abstracts on Zenodo.
+
+### Authors' presence at the conference
+Although it is possible to follow the conference via streaming, it is nevertheless an on-site event. By submitting a paper, authors are aware that at least one person will need to be in Lausanne to present it.
+
 ### Important dates
 31.01.2024 deadline for submissions
 
