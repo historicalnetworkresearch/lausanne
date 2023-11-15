@@ -44,6 +44,8 @@ Abstracts must be submitted via the conference management platform ([https://hnr
 
 The author (or corresponding author in the case of multi-authored papers) must create an account on the platform and then fill in the form, copying the abstract in full text (no PDF or other attachments). 
 
+Abstracts can be written in English or French.
+
 Citations should use the Chicago Manual of Style 17th Edition Author Date style (author-date in the text, then full reference at the end). 
 
 Including an image in the abstract is encouraged to allow a general discussion of our network visualization practices. If, for any reason, the submitted version does not contain any, authors of accepted papers will be invited to add an image and caption at a later stage. Abstracts and images will then be published on the conference website ahead of the event and archived in a book of abstracts on Zenodo.
