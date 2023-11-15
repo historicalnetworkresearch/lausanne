@@ -17,46 +17,48 @@ Les phénomènes étudiés par les sciences historiques sont, par nature, des si
 
 En 2009, à la suite d'un atelier consacré à l'application de l'analyse des réseaux sociaux à l'histoire, une petite communauté de pratique, [la Historical Network Research Community](http://www.historicalnetworkresearch.org), est créée. Elle a ensuite évolué en une série d'ateliers, puis en une conférence internationale, dont la présente édition est la 9e à ce jour, après des conférences à Hambourg, Gand, Lisbonne, Turku, Brno, Luxembourg et Mainz. L'année 2013 a vu la création de la [Bibliographie collective HNR](https://www.zotero.org/groups/209983/historical_network_research), un outil central de partage de la production scientifique de la communauté. En 2017, le premier numéro de [JHNR, le *Journal of Historical Network Research*](https://jhnr.uni.lu/), est publié, permettant à chacune et chacun de partager ses recherches en Open Access. Parmi les autres ressources, on trouve [une chaîne YouTube](https://www.youtube.com/channel/UC2QFG7uIVxkFQ3xZbohKl-Q) avec des conférences enregistrées et une newsletter.
 
-### Un focus sur la visualization
+### Un focus sur la visualisation
 
 La visualisation de réseaux est souvent la première chose que l'on voit, qu'il s'agisse d'un diagramme de sommets et d'arêtes illisible mais coloré, d'un sociogramme élaboré, d'une matrice austère ou d'une carte de flux raffinée. En raison de notre inconfort à fonder nos interprétations sur un objet apparemment construit sur des bases quelque peu subjectives, parce qu'elles sont très susceptibles d'être influencées par un biais graphique, nous reléguons souvent la visualisation à un rôle mineur dans nos approches exploratoires, préférant la froide (apparente) scientificité des métriques de graphes. Mais ce n'est pas parce que nous voyons des utilisations naïves de la visualisation de réseaux qu'elle ne peut pas être un outil très efficace pour comprendre, explorer et communiquer nos données de recherche. L'une des ambitions de la conférence est donc de questionner notre utilisation de la visualisation de réseaux en histoire, une préoccupation qui se reflétera notamment dans les ateliers et les keynotes.
 
 À noter que la conférence HNR est ouverte à tous les sujets impliquant l'analyse de réseaux dans les disciplines historiques, l'accent thématique de cette édition 2024 n'a donc pas d'impact sur la sélection des contributions. Le seul effet sera qu'une image sera demandée pour chaque article (après la phase de révision, si elle n'est pas incluse dans le résumé soumis) afin de créer une galerie qui sera affichée pendant la conférence pour susciter la discussion sur nos pratiques de visualisation de réseaux.
 
-### Topics
-For our 2024 conference, we welcome contributions discussing any historical period and geographical area. Authors may be historians, linguists, librarians, archaeologists, art historians, computer scientists, social scientists as well as scholars from other disciplines working with historical data. Topics may include, but are not limited to: 
-* Applications of network analysis to history, art history, ancient history, intellectual history, economic history, social history, media history, political history, history of religions, biography, public history, micro-history, postcolonial history, global history, archaeology, literary history, cultural history, etc. 
-* Analysis of specific network types, such as geospatial networks, temporal and dynamic networks, bipartite networks, multi-layer networks, multiplex networks,  etc.
-* Methodological contributions concerning the applicability of network analysis to history, including, for example, modeling, ontologies, linked data, the use of graph metrics, visual network analysis, etc.
-* Pedagogical contributions, presenting teaching scenarios, literacy questions, software or feature presentations, interfaces, etc.
+### Sujets
+Pour notre conférence de 2024, nous accueillons des contributions traitant de n'importe quelle période historique et de n'importe quelle zone géographique. Les auteurs peuvent être historiens, linguistes, bibliothécaires, archéologues, historiens de l'art, informaticiens, sociologues mais aussi chercheurs d'autres disciplines travaillant avec des données historiques. Les sujets peuvent inclure, mais ne sont pas limités à : 
+* Des applications de l'analyse des réseaux à l'histoire, l'histoire de l'art, l'histoire ancienne, l'histoire intellectuelle, l'histoire économique, l'histoire sociale, l'histoire des médias, l'histoire politique, l'histoire des religions, la biographie, l'histoire publique, la micro-histoire, l'histoire postcoloniale, l'histoire globale, l'archéologie, l'histoire littéraire, l'histoire culturelle, etc.
+* Des analyses de types de réseaux spécifiques, tels que les réseaux géospatiaux, les réseaux temporels et dynamiques, les réseaux bipartis, les réseaux multicouches, les réseaux multiplexes, etc.
+* Des contributions méthodologiques concernant l'applicabilité de l'analyse de réseaux à l'histoire, y compris, par exemple, la modélisation, les ontologies, les linked data, l'utilisation de métriques de graphes, l'analyse visuelle de réseaux, etc.
+* Des contributions pédagogiques, présentant des scénarios d'enseignement, des questions relatives à la littératie, des présentations de logiciels ou de fonctionnalités, des interfaces, etc.
 
 ## Formats
-### Long papers
-Long papers consist of a 20-minute presentation followed by 10 minutes of discussion, and are intended to present comprehensive research. An abstract of 500-1000 words is required, including at least 3 citations. It should contain a description of the paper's subject and research questions, an overview of the data used and methods employed, a discussion of the research results and possibly the wider implication for network analysis in history.
-### Short papers
-Short papers consist of a 10-minute presentation followed by 5 minutes of discussion, and are intended to present research in progress. An abstract of 300-500 words is required, including at least 3 citations. It should contain a brief description of the subject and the research questions, an overview of the data used and the methods employed, a discussion of any results or questions still open at this stage.
-## Submission guidelines
-### Submission
-Abstracts must be submitted via the conference management platform ([https://hnr2024.sciencesconf.org/](https://hnr2024.sciencesconf.org/)) by January 31, 2024. 
+### Communications longues
+Les communications longues consistent en une présentation de 20 minutes suivie de 10 minutes de discussion, et sont destinées à présenter une recherche approfondie. Un résumé de 500 à 1000 mots est requis, comprenant au moins 3 citations. Il doit contenir une description du sujet de la communication et des questions de recherche, un aperçu des données utilisées et des méthodes employées, une discussion des résultats et éventuellement des implications plus larges pour l'analyse de réseau appliquée à l'histoire.
+### Communications courtes
+Les communications courtes consistent en une présentation de 10 minutes suivie de 5 minutes de discussion, et sont destinées à présenter des recherches en cours. Un résumé de 300 à 500 mots est requis, comprenant au moins 3 citations. Il doit contenir une brève description du sujet et des questions de recherche, un aperçu des données utilisées et des méthodes employées, une discussion des résultats ou des questions encore ouvertes à ce stade.
 
-<button class="button button1" onclick="window.location.href='https://hnr2024.sciencesconf.org/';">Submit your paper here</button>
+## Instructions
+### Soumission des contributions
+Les résumés doivent être soumis via la plateforme de gestion de la conférence ([https://hnr2024.sciencesconf.org/](https://hnr2024.sciencesconf.org/)) avant le 31 janvier 2024. 
 
-The author (or corresponding author in the case of multi-authored papers) must create an account on the platform and then fill in the form, copying the abstract in full text (no PDF or other attachments). 
+<button class="button button1" onclick="window.location.href='https://hnr2024.sciencesconf.org/';">Soumettez votre contribution ici</button>
 
-Citations should use the Chicago Manual of Style 17th Edition Author Date style (author-date in the text, then full reference at the end). 
+L'auteur (ou l'auteur correspondant dans le cas d'articles à plusieurs auteurs) doit créer un compte sur la plateforme puis remplir le formulaire en recopiant le résumé en texte intégral dans le champ dédié (pas de PDF en pièce jointe). 
 
-Including an image in the abstract is encouraged to allow a general discussion of our network visualization practices. If, for any reason, the submitted version does not contain any, authors of accepted papers will be invited to add an image and caption at a later stage. Abstracts and images will then be published on the conference website ahead of the event and archived in a book of abstracts on Zenodo.
-### Important dates
-31.01.2024 deadline for submissions
+Les citations doivent respecter le style du Chicago Manual of Style 17th Edition (auteur-date dans le texte, puis référence complète à la fin). 
 
-29.02.2024 notification of acceptance/rejection
+Inclure une image dans le résumé est encouragé pour permettre une discussion générale sur nos pratiques de visualisation de réseaux. Si, pour une raison quelconque, la version soumise n'en contient pas, les auteurs des articles acceptés seront invités à ajouter une image et une légende ultérieurement. Les résumés et les images seront ensuite publiés sur le site web de la conférence avant l'événement et archivés dans un recueil de résumés sur Zenodo.
 
-01.03.2024 registration opening
+### Dates importantes
+31.01.2024 délai pour la soumission des contributions
 
-30.06.2024 last possible registration for participants
+29.02.2024 notification d'acceptation/de rejet
 
-8-10.07.2024 conference
+01.03.2024 ouverture de l'inscription
 
-31.08.2024 invitation of selected articles to JHNR
+30.06.2024 fermeture de l'inscription
+
+8-10.07.2024 conférence
+
+31.08.2024 invitation d'une sélection d'articles pour le JHNR
 
 
