@@ -46,6 +46,8 @@ Les résumés doivent être soumis via la plateforme de gestion de la conférenc
 
 L'auteur (ou l'auteur correspondant dans le cas d'articles à plusieurs auteurs) doit créer un compte sur la plateforme puis remplir le formulaire en recopiant le résumé en texte intégral dans le champ dédié (pas de PDF en pièce jointe). 
 
+Les contributions peuvent être rédigées en anglais ou en français.
+
 Les citations doivent respecter le style du Chicago Manual of Style 17th Edition (auteur-date dans le texte, puis référence complète à la fin). 
 
 Inclure une image dans le résumé est encouragé pour permettre une discussion générale sur nos pratiques de visualisation de réseaux. Si, pour une raison quelconque, la version soumise n'en contient pas, les auteurs des articles acceptés seront invités à ajouter une image et une légende ultérieurement. Les résumés et les images seront ensuite publiés sur le site web de la conférence avant l'événement et archivés dans un recueil de résumés sur Zenodo.
