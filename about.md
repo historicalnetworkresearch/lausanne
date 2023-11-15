@@ -7,9 +7,9 @@ hide_image: false
 cover: false
 ---
 
-# Organization and scientific committee
+# Organization
 
-## Organization
+## Local organizers
 The conference is organized with the support of the [History Department of the University of Lausanne (UNIL)](https://unil.ch/hist/home.html) and the [Centre for Cultural History (UNIL)](https://www.unil.ch/shc/home.html). The workshops are supported by the [Atelier des Histoires (UNIL)](https://www.unil.ch/atelier-des-histoires/fr/home.html).
 
 <a href="https://unil.ch/hist/home.html"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/unil_logos.png" style="width:600px"></a>
@@ -24,11 +24,6 @@ The [Historical Network Research Community](https://historicalnetworkresearch.or
 <a href="http://www.martingrandjean.ch"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/martingrandjean.png" style="width:100px"></a> 
 
 Coordination: **Martin Grandjean** ([mail](mailto:martin.grandjean@unil.ch))
-
-## Scientific Committee
-
-TBA
-{:.note title="Update"}
 
 ## Credits
 
