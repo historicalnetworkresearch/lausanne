@@ -49,7 +49,7 @@ Les citations doivent respecter le style du Chicago Manual of Style 17th Edition
 Inclure une image dans le résumé est encouragé pour permettre une discussion générale sur nos pratiques de visualisation de réseaux. Si, pour une raison quelconque, la version soumise n'en contient pas, les auteurs des articles acceptés seront invités à ajouter une image et une légende ultérieurement. Les résumés et les images seront ensuite publiés sur le site web de la conférence avant l'événement et archivés dans un recueil de résumés sur Zenodo.
 
 ### Présence des auteurs à la conférence
-S'il est possible de suivre la conférence en streaming, il s'agit néanmoins d'un événement en présentiel. En soumettant une proposition de communication, les auteurs sont conscient qu'au moins une personne devra être sur place pour la présenter.
+S'il est possible de suivre la conférence en streaming, il s'agit néanmoins d'un événement en présentiel. En soumettant une proposition de communication, les auteurs sont conscient qu'au moins une personne devra être à Lausanne pour la présenter.
 
 ### Dates importantes
 31.01.2024 délai pour la soumission des contributions
