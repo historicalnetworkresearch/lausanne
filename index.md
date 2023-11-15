@@ -9,7 +9,7 @@ cover: true
 
 ## HNR2024
 
-The 9th International Historical Network Research Conference (HNR2024) will take place on **July 8-10 2024** at the [University of Lausanne (UNIL)](https://www.unil.ch/central/en/home.html), Switzerland.
+The 9th International Historical Network Research Conference (HNR2024) will take place on **July 8-10 2024** at the [University of Lausanne (UNIL)](/lausanne/about), Switzerland.
 
 Abstracts can be submitted until January 31, 2024. Take a look at the [call for papers](/lausanne/cfp)! 
 
