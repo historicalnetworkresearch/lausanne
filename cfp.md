@@ -11,7 +11,7 @@ cover: false
 
 The Historical Network Research community is very pleased to announce the call for papers for the Historical Networks Research conference 2024 which will take place at the University of Lausanne (Switzerland), from Monday 8 July until Wednesday 10 July, 2024. 
 
-<button class="button button1" onclick="window.location.href='/aac';">Cet appel à communications est aussi disponible en français</button>
+<button class="button button1" onclick="window.location.href='/lausanne/aac';">Cet appel à communications est aussi disponible en français</button>
 
 ## The Historical Network Research Conference
 ### Historical networks
