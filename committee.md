@@ -34,6 +34,7 @@ cover: false
 * **Zef Segal**, Lecturer in Media Studies (College of Management, Israel) 
 * **Marcella Tambuscio**, Researcher in Digital Humanities (ZIM, University of Graz, Austria) 
 * **Ingeborg van Vugt**, Structured Data Engineer and Historian (KNAW Humanities Cluster, Amsterdam, The Netherlands)
+* **Christophe Verbruggen**, Associate professor in History and director GhentCDH (Ghent University, Belgium)
 * **Malte Vogl**, Researcher in Network Science (Max Planck Institute of Geoanthropology, Jena, Germany), 
 * **Tobias Winnerling**, Substitute Professor for Early Modern History/Programme Coordinator of the Department of Historical Studies (Heinrich Heine University, Düsseldorf, Germany)
 * **Bernd Wurpts**, Postdoc in Sociology (University of Lucerne, Switzerland)
