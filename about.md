@@ -29,4 +29,4 @@ Coordination: **Martin Grandjean** ([mail](mailto:martin.grandjean@unil.ch))
 
 This website, created and maintained by Martin Grandjean using the [Hydejack](https://hydejack.com/) template, is hosted on [Github](https://github.com/historicalnetworkresearch/lausanne) and archived on [Zenodo](https://doi.org/10.5281/zenodo.10084450) 
 
-<a href="https://doi.org/10.5281/zenodo.10084450"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.10084450.svg" alt="DOI"></a>
+<a href="https://doi.org/10.5281/zenodo.10084449"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.10084449.svg" alt="DOI"></a>
