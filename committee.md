@@ -12,6 +12,7 @@ cover: false
 * **Sebastian Ahnert**, Assistant Professor (University of Cambridge, United Kingdom)
 * **Laurent Beauguitte**, Researcher in Geography (CNRS, Paris, France)
 * **Song Chen**, Associate Professor, Bucknell University (United States of America)
+* **Elisa Cugliana**, Junior Professor for Digital Humanities (Universität zu Köln, Germany)
 * **Luca De Benedictis**, Professor of International Economics (University of Macerata and Luiss University, Rome, Italy)
 * **Aline Deicke**, Professor for Digital Humanities (Akademie der Wissenschaften und der Literatur, Mainz, Germany)
 * **Lieve Donnellan**, Lecturer in Classical Greek Archaeology (the University of Melbourne, Australia)
