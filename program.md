@@ -14,11 +14,12 @@ cover: false
 Final conference program to be announced in spring 2024
 {:.note title="Update"}
 
-| Monday 8 July  |  Tuesday 9 July | Wednesday 10 July  | 
-|---|---|---|
-| Workshops  | Paper sessions  | Paper sessions  |
-| Workshops  | Paper sessions  | Paper sessions |
-| Opening keynote | Paper sessions | Closing keynote  |
+| | Monday 8 July  |  Tuesday 9 July | Wednesday 10 July  | 
+|---|---|---|---|
+| 9:00-10:30 | Workshops  | Paper sessions  | Paper sessions  |
+| 11:00-12:30 | Workshops  | Paper sessions  | Paper sessions |
+| 14:00-15:30 | Workshops | Paper sessions | Paper sessions  |
+| 16:00-17:30 | Opening keynote | Paper sessions | Closing keynote |
 
 ## Keynote lecture
 <a href="https://vbn.aau.dk/en/persons/144218"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/mathieujacomy.png" style="width:100px"></a> 
