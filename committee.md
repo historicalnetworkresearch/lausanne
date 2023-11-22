@@ -10,6 +10,7 @@ cover: false
 # Scientific Committee
 
 * **Sebastian Ahnert**, Assistant Professor (University of Cambridge, United Kingdom)
+* **Tara Andrews**, University Professor for Digital Humanities (University of Vienna, Austria)
 * **Laurent Beauguitte**, Researcher in Geography (CNRS, Paris, France)
 * **Song Chen**, Associate Professor, Bucknell University (United States of America)
 * **Elisa Cugliana**, Junior Professor for Digital Humanities (Universität zu Köln, Germany)
