@@ -28,7 +28,7 @@ cover: false
 * **Tobias Hodel**, Assistant Professor in Digital Humanities (University of Bern, Switzerland)
 * **Petter Holme**, Professor of Network Science (Aalto University, Finland)
 * **Aline Johner**, Senior Researcher in Modern History (University of Lausanne, Switzerland)
-* **Claire Lemercier**, Research Director (CNRS, France)
+* **Claire Lemercier**, CNRS Research Director (Sciences Po Paris, France)
 * **Paul McLean**, Professor of Sociology (Rutgers University, USA)
 * **Emmanuel Mourlon-Druol**, Professor of History of European Cooperation and Integration (European University Institute, Florence, Italy)
 * **Lucas Rappo**, Postdoc in History and Digital Humanities (Ecole Polytechnique Fédérale de Lausanne, Switzerland)
