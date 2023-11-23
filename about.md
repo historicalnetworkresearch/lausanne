@@ -21,7 +21,7 @@ The [Historical Network Research Community](https://historicalnetworkresearch.or
 
 This event is organized in partnership with the [RES-HIST group](https://reshist.hypotheses.org/).
 
-<a href="https://reshist.hypotheses.org/"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/reshist.png" style="width:200px"></a>
+<a href="https://reshist.hypotheses.org/"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/reshist.png" style="width:250px"></a>
 
 ## Coordination
 
