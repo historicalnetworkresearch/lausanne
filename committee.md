@@ -16,7 +16,7 @@ cover: false
 * **Elisa Cugliana**, Junior Professor for Digital Humanities (Universität zu Köln, Germany)
 * **Pierre-Yves Beaurepaire**, Professor of Modern History (Université Côte d'Azur, France)
 * **Luca De Benedictis**, Professor of International Economics (University of Macerata and Luiss University, Rome, Italy)
-* **Aline Deicke**, Professor for Digital Humanities (Academy of Sciences and Literature | Mainz & Philipps-University Marburg, Germany)
+* **Aline Deicke**, Professor for Digital Humanities (Academy of Sciences and Literature, Mainz & Philipps-University Marburg, Germany)
 * **Lieve Donnellan**, Lecturer in Classical Greek Archaeology (the University of Melbourne, Australia)
 * **Marten Düring**, Assistant Professor in Digital History (C2DH, University of Luxembourg)
 * **Thomas Efer**, Researcher and Lecturer in Computational Humanities (Leipzig University, Germany)
