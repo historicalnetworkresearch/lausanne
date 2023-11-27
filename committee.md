@@ -31,6 +31,7 @@ cover: false
 * **Claire Lemercier**, CNRS Research Director (Sciences Po Paris, France)
 * **Paul McLean**, Professor of Sociology (Rutgers University, USA)
 * **Emmanuel Mourlon-Druol**, Professor of History of European Cooperation and Integration (European University Institute, Florence, Italy)
+* **Cindarella Petz**, PostDoc in Digital History (Leibniz Institute of European History, Mainz, Germany)
 * **Lucas Rappo**, Postdoc in History and Digital Humanities (Ecole Polytechnique Fédérale de Lausanne, Switzerland)
 * **Christian Rollinger**, Reader in Ancient history (Universität Trier, Germany)
 * **Henrike Rudolph**, Assistant Professor in East Asian Studies (Georg-August University Göttingen, Germany)
