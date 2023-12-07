@@ -13,6 +13,7 @@ cover: false
 * **Tara Andrews**, University Professor for Digital Humanities (University of Vienna, Austria)
 * **Laurent Beauguitte**, Researcher in Geography (CNRS, Paris, France)
 * **Pierre-Yves Beaurepaire**, Professor of Modern History (Université Côte d'Azur, France)
+* **Sebastian Borkowski**, Data Science Researcher (University of Bern, Switzerland) 
 * **Emeline Brylinski**, Postdoc in History of Education (University of Geneva, Switzerland)
 * **Song Chen**, Associate Professor (Bucknell University, United States of America)
 * **Elisa Cugliana**, Junior Professor for Digital Humanities (Universität zu Köln, Germany)
