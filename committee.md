@@ -16,6 +16,7 @@ cover: false
 * **Sebastian Borkowski**, Data Science Researcher (University of Bern, Switzerland) 
 * **Emeline Brylinski**, Postdoc in History of Education (University of Geneva, Switzerland)
 * **Song Chen**, Associate Professor (Bucknell University, United States of America)
+* **Elena Chestnova**, Researcher at the Università della Svizzera italiana (Mendrisio, Switzerland)
 * **Elisa Cugliana**, Junior Professor for Digital Humanities (Universität zu Köln, Germany)
 * **Luca De Benedictis**, Professor of International Economics (University of Macerata and Luiss University, Rome, Italy)
 * **Aline Deicke**, Professor for Digital Humanities (Academy of Sciences and Literature, Mainz & Philipps-University Marburg, Germany)
