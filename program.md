@@ -85,6 +85,7 @@ Final conference program to be announced in spring 2024
         <td>Break</td>
         <td></td>
         <td></td>
+        <td></td>
     </tr>
     <tr>
         <td>18:00-19:30</td>
