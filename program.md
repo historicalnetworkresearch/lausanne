@@ -14,14 +14,14 @@ cover: false
 Final conference program to be announced in spring 2024
 {:.note title="Update"}
 
-<table style="width:100%">
+<table>
     <tr>
         <td></td>
         <td><b>Monday 8 July</b></td>
-        <td style="width:15%"><b>Tuesday 9 July</b></td>
-        <td style="width:15%"></td>
-        <td style="width:15%"><b>Wednesday 10 July<b></td>
-        <td style="width:15%"></td>
+        <td><b>Tuesday 9 July</b></td>
+        <td></td>
+        <td><b>Wednesday 10 July<b></td>
+        <td></td>
     </tr>
     <tr>
         <td>9:00-10:30</td>
