@@ -14,12 +14,88 @@ cover: false
 Final conference program to be announced in spring 2024
 {:.note title="Update"}
 
-| | Monday 8 July  |  Tuesday 9 July | Wednesday 10 July  | 
-|---|---|---|---|
-| 9:00-10:30 | Workshops  | Paper sessions  | Paper sessions  |
-| 11:00-12:30 | Workshops  | Paper sessions  | Paper sessions |
-| 14:00-15:30 | Workshops | Paper sessions | Paper sessions  |
-| 16:00-17:30 | Opening keynote | Paper sessions | Closing keynote |
+<table>
+    <tr>
+        <td></td>
+        <td>**Monday 8 July**</td>
+        <td>**Tuesday 9 July**</td>
+        <td></td>
+        <td>**Wednesday 10 July**</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>9:00-10:30</td>
+        <td>Workshop 1: Visual network analysis</td>
+        <td>Opening session</td>
+        <td></td>
+        <td>Paper session</td>
+        <td>Paper session</td>
+    </tr>
+    <tr>
+        <td>10:30-11:00</td>
+        <td>Coffee break</td>
+        <td>Coffee break</td>
+        <td></td>
+        <td>Coffee break</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>11:00-12:30</td>
+        <td>Workshop 1: Visual network analysis</td>
+        <td>Paper session</td>
+        <td>Paper session</td>
+        <td>Paper session</td>
+        <td>Paper session</td>
+    </tr>
+    <tr>
+        <td>12:30-14:00</td>
+        <td>Lunch break</td>
+        <td>Lunch break</td>
+        <td></td>
+        <td>Lunch break</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>14:00-15:30</td>
+        <td>Workshop 2: Nodegoat</td>
+        <td>Paper session</td>
+        <td>Paper session</td>
+        <td>Paper session</td>
+        <td>Paper session</td>
+    </tr>
+    <tr>
+        <td>15:30-16:00</td>
+        <td>Coffee break</td>
+        <td>Coffee break</td>
+        <td></td>
+        <td>Coffee break</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>16:00-17:30</td>
+        <td>Workshop 2: Nodegoat</td>
+        <td>Paper session</td>
+        <td>Paper session</td>
+        <td>Closing keynote</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>17:30-18:00</td>
+        <td>Break</td>
+        <td>Break</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>18:00-19:30</td>
+        <td>Opening keynote</td>
+        <td>HNR Community moment</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
 
 ## Keynote lecture
 <a href="https://vbn.aau.dk/en/persons/144218"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/mathieujacomy.png" style="width:100px"></a> 
