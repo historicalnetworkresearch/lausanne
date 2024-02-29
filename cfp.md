@@ -56,7 +56,7 @@ Although it is possible to follow the conference via streaming, it is neverthele
 ### Important dates
 31.01.2024 deadline for submissions
 
-29.02.2024 notification of acceptance/rejection
+**01.03.2024** notification of acceptance/rejection
 
 01.03.2024 registration opening
 
