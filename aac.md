@@ -61,7 +61,7 @@ S'il est possible de suivre la conférence en streaming, il s'agit néanmoins d'
 ### Dates importantes
 31.01.2024 délai pour la soumission des contributions
 
-**01.03.2024** notification d'acceptation/de rejet
+01.03.2024 notification d'acceptation/de rejet
 
 01.03.2024 ouverture de l'inscription
 
