@@ -37,4 +37,4 @@ As the conference takes place in person in Lausanne, we need at least one person
 * **Register at least one author** as "present in Lausanne in person" in the "Registration" form on the conference management platform (https://hnr2024.sciencesconf.org/) **by April 15, 2024**. This allows us to finalize the program, knowing who will actually be there.
 * Co-authors and other participants have until June 30 to register.
 * As you know the conference is free of charge but does not cover travel or accommodation expenses for participants.
-* You can find further practical information for planning your trip to Lausanne here: [Practical informations]([/practical])
+* You can find further practical information for planning your trip to Lausanne here: [Practical informations](lausanne/practical)
