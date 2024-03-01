@@ -26,7 +26,7 @@ Final conference program to be announced in spring 2024
 | 17:30-18:00 | <span style="color:LightGrey">Break</span>                               | <span style="color:LightGrey">Break</span>                |                   |  
 | 18:00-19:30 | Opening keynote                     | HNR Community moment |                   |  
 
-## Keynote lectures
+## Keynote speakers
 <a href="https://vbn.aau.dk/en/persons/144218"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/clairelemercier.png" style="width:100px"></a> 
 
 **[Claire Lemercier](https://www.sciencespo.fr/cso/en/researcher/Claire%20Lemercier/1022.html)**, Research Director CNRS, SciencesPo Paris (France). See also [quanthum.hypotheses.org]([https://quanthum.hypotheses.org/))
@@ -35,6 +35,10 @@ Final conference program to be announced in spring 2024
 <a href="https://vbn.aau.dk/en/persons/144218"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/mathieujacomy.png" style="width:100px"></a> 
 
 **[Mathieu Jacomy](https://vbn.aau.dk/en/persons/144218)**, Assistant Professor at the University of Aalborg in Copenhagen (Denmark). See also [reticular.hypotheses.org](https://reticular.hypotheses.org/)
+
+## Pre-conference workshops
+* **Visual network analysis**, with Mathieu Jacomy
+* **Nodegoat**, with Pim van Bree and Geert Kessels
 
 ## Papers
 Preliminary list of accepted papers
