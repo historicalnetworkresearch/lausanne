@@ -27,14 +27,14 @@ The word limit is now higher, to allow those who wish to say a little more. We a
 * Please include (at least) **one image** in your abstract. If you haven't produced a network visualization, please choose another image that you feel is appropriate to convey your network.
 
 ### Technical details
-* Please modify your abstract directly **in the conference management platform** https://hnr2024.sciencesconf.org/(you simply modify your initial submission).
+* Please modify your abstract directly **in the conference management platform** [hnr2024.sciencesconf.org/](https://hnr2024.sciencesconf.org/) (you simply modify your initial submission).
 * No need to create a PDF, just put everything in the **full-text field**.
 * Add your **images** as attachments (in the "File(s)" stage of the interface)
 * We'll take care of the final, unified layout of all the abstracts, as well as publishing them online.
 
 ## Your registration
 As the conference takes place in person in Lausanne, we need at least one person per communication to be present on site.
-* **Register at least one author** as "present in Lausanne in person" in the "Registration" form on the conference management platform (https://hnr2024.sciencesconf.org/) **by April 15, 2024**. This allows us to finalize the program, knowing who will actually be there.
+* **Register at least one author** as "present in Lausanne in person" in the "Registration" form on the conference management platform ([hnr2024.sciencesconf.org/](https://hnr2024.sciencesconf.org/)) **by April 15, 2024**. This allows us to finalize the program, knowing who will actually be there.
 * Co-authors and other participants have until June 30 to register.
 * As you know the conference is free of charge but does not cover travel or accommodation expenses for participants.
 * You can find further practical information for planning your trip to Lausanne here: [Practical informations](lausanne/practical)
