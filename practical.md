@@ -16,7 +16,7 @@ cover: false
 ### Registration
 The conference is free of charge. Please note that the conference does not cover travel or accommodation expenses for participants.
 
-Registration will open in spring 2024.
+**Registration is now open:** go to the [conference management platform and create an account](https://hnr2024.sciencesconf.org/)!
 
 ### Venue
 
