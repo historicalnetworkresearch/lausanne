@@ -9,6 +9,8 @@ cover: false
 
 # Instructions for authors
 
+{:toc}
+
 ## Your abstract
 
 ### Contents
