@@ -27,9 +27,9 @@ Final conference program to be announced in spring 2024
 | 18:00-19:30 | Opening keynote                     | HNR Community moment |                   |  
 
 ## Keynote speakers
-<a href="https://vbn.aau.dk/en/persons/144218"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/clairelemercier.png" style="width:100px"></a> 
+<a href="https://www.sciencespo.fr/cso/en/researcher/Claire%20Lemercier/1022.html"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/clairelemercier.png" style="width:100px"></a> 
 
-**[Claire Lemercier](https://www.sciencespo.fr/cso/en/researcher/Claire%20Lemercier/1022.html)**, Research Director CNRS, SciencesPo Paris (France). See also [quanthum.hypotheses.org]([https://quanthum.hypotheses.org/))
+**[Claire Lemercier](https://www.sciencespo.fr/cso/en/researcher/Claire%20Lemercier/1022.html)**, Research Director CNRS, SciencesPo Paris (France). See also [quanthum.hypotheses.org]([https://quanthum.hypotheses.org/)
 
 
 <a href="https://vbn.aau.dk/en/persons/144218"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/mathieujacomy.png" style="width:100px"></a> 
