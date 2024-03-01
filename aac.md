@@ -9,6 +9,9 @@ cover: false
 
 # Appel à communications
 
+* Table of contents
+{:toc}
+
 La Historical Network Research Community est très heureuse de vous annoncer l'appel à communications pour la conférence Historical Networks Research 2024 qui se déroulera à l'Université de Lausanne (Suisse), du lundi 8 juillet au mercredi 10 juillet 2024. 
 
 <button class="button button1" onclick="window.location.href='/lausanne/cfp';">English version</button>
