@@ -45,13 +45,8 @@ Final conference program to be announced in spring 2024
 
 (alphabetically by title)
 
-___
-
 Agir et documenter: la double action du vicaire apostolique de Tripolitaine pendant la Seconde Guerre mondiale
 {:.note title="Maddalena Zaglio"}
-
-
-___
 
 *Analysing artistic network of the Basilian order in Eighteenth-Century Poland-Lithuania: a digital humanities approach*
 
