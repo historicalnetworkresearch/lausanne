@@ -47,9 +47,9 @@ Final conference program to be announced in spring 2024
 
 ___
 
-*Agir et documenter: la double action du vicaire apostolique de Tripolitaine pendant la Seconde Guerre mondiale*
+Agir et documenter: la double action du vicaire apostolique de Tripolitaine pendant la Seconde Guerre mondiale
+{:.note title="Maddalena Zaglio"}
 
-Maddalena Zaglio
 
 ___
 
