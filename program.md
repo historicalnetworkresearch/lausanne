@@ -9,6 +9,9 @@ cover: false
 
 # Program
 
+* Table of contents
+{:toc}
+
 ## Overview
 
 Final conference program to be announced in spring 2024
