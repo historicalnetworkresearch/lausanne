@@ -9,6 +9,9 @@ cover: false
 
 # Organization
 
+* Table of contents
+{:toc}
+
 ## Local organizers
 The conference is organized with the support of the [History Department of the University of Lausanne (UNIL)](https://unil.ch/hist/home.html) and the [Centre for Cultural History (UNIL)](https://www.unil.ch/shc/home.html). The workshops are supported by the [Atelier des Histoires (UNIL)](https://www.unil.ch/atelier-des-histoires/fr/home.html).
 
