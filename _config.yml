@@ -52,6 +52,8 @@ author:
 
 # Add links to the sidebar.
 menu:
+  - title:             Homepage
+    url:               /
   - title:             Call for papers
     url:               /cfp/
   - title:             Program
