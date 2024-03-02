@@ -13,7 +13,7 @@ The 9th International Historical Network Research Conference (HNR2024) will take
 
 **Registration is now open!** Register free of charge for the in-person event in Lausanne or to follow it online here: [conference management platform](https://hnr2024.sciencesconf.org/)
 
-|  <a href="https://hnr2024.sciencesconf.org"><img src="img/image3.jpeg" width="280"></a>     |     <a href="lausanne/program"><img src="img/image2.jpeg" width="280"></a>                  |   <a href="lausanne/practical"><img src="img/image1.jpeg" width="280"></a>    | 
+|  <a href="https://hnr2024.sciencesconf.org"><img src="img/image3.jpeg" width="270"></a>     |     <a href="lausanne/program"><img src="img/image2.jpeg" width="270"></a>                  |   <a href="lausanne/practical"><img src="img/image1.jpeg" width="270"></a>    | 
 | ----------- | ----------------------------------- | -------------------- |
 | <a href="https://hnr2024.sciencesconf.org">**Registration**</a><br>Registration is now open on the conference management platform. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| <a href="lausanne/program">**Program**</a><br>The preliminary conference program is now available. Abstracts will be published mid-April.  | <a href="lausanne/practical">**Practical informations**</a><br>Some information about the location and Lausanne. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 
 
