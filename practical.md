@@ -18,6 +18,8 @@ The conference is free of charge. Please note that the conference does not cover
 
 **Registration is now open:** go to the [conference management platform and create an account](https://hnr2024.sciencesconf.org/)!
 
+Registration for workshops on Monday July 8 will open later. All conference registrants will be warmly invited to participate in these highly stimulating workshops. Participation in workshops is free of charge.
+
 ### Venue
 
 The conference takes place in the Synathlon building, on the campus of the University of Lausanne, Switzerland. 
