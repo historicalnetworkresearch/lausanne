@@ -16,4 +16,4 @@ The 9th International Historical Network Research Conference (HNR2024) will take
 | <a href="https://hnr2024.sciencesconf.org">**Registration**</a><br>Registration is now open and free of charge. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | <a href="program">**Program**</a><br>The preliminary conference program is now available. | <a href="practical">**Practical informations**</a><br>Some information about the location and Lausanne. | 
 
 
-<img src="img/hnr_logo_vector.png" width="200">   <img src="img/unil_hist.png" width="180">
+<img src="img/hnr_logo_vector.png" width="200">   <img src="img/unil_logos.png" width="500">
