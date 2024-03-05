@@ -32,12 +32,17 @@ Final conference program to be announced in spring 2024
 ## Keynote speakers
 <a href="https://www.sciencespo.fr/cso/en/researcher/Claire%20Lemercier/1022.html"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/clairelemercier.png" style="width:100px"></a> 
 
-**[Claire Lemercier](https://www.sciencespo.fr/cso/en/researcher/Claire%20Lemercier/1022.html)**, Research Director CNRS, SciencesPo Paris (France). See also [quanthum.hypotheses.org]([https://quanthum.hypotheses.org/)
+**[Claire Lemercier](https://www.sciencespo.fr/cso/en/researcher/Claire%20Lemercier/1022.html)**, Research Director CNRS, SciencesPo Paris (France). See also [quanthum.hypotheses.org](https://quanthum.hypotheses.org/)
 
 
 <a href="https://vbn.aau.dk/en/persons/144218"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/mathieujacomy.png" style="width:100px"></a> 
 
 **[Mathieu Jacomy](https://vbn.aau.dk/en/persons/144218)**, Assistant Professor at the University of Aalborg in Copenhagen (Denmark). See also [reticular.hypotheses.org](https://reticular.hypotheses.org/)
+
+<a href="https://www.c2dh.uni.lu/people/marten-during"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/martenduring.png" style="width:100px"></a> 
+
+**[Marten Düring](https://www.c2dh.uni.lu/people/marten-during)**, Assistant Professor at the University of Luxembourg (Luxembourg). See also [martenduering.com](https://martenduering.com/)
+
 
 ## Pre-conference workshops
 * **Visual network analysis**, with Mathieu Jacomy
