@@ -43,7 +43,7 @@ The University of Lausanne campus is well served by the M1 metro line. The journ
 
 ### Accommodation
 
-The conference has no specific recommendations for accommodation. Note that Lausanne is a place where the mountains meet the lake, and the city is therefore very steep: give preference to accommodation close to the M2 metro line (the city's vertical spine). The campus is located outside the city, so there are few hotels directly on site, but the metro makes accommodation in the city absolutely possible.
+The conference has no specific recommendations for accommodation. Note that Lausanne is a place where the mountains meet the lake, and the city is therefore very steep: give preference to accommodation close to the M2 metro line (the city's vertical spine). The campus is located outside the city, so there are few hotels directly on site, but the metro makes accommodation in the city absolutely convenient.
 
 ### More
 
