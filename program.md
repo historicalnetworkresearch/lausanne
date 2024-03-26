@@ -45,8 +45,14 @@ Final conference program to be announced in spring 2024
 
 
 ## Pre-conference workshops
-* **Visual network analysis**, with Mathieu Jacomy
-* **Nodegoat**, with Pim van Bree and Geert Kessels
+
+<a href="https://vbn.aau.dk/en/persons/144218"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/mathieujacomy.png" style="width:100px"></a>
+
+**Visual network analysis**, with Mathieu Jacomy
+  
+<a href="https://nodegoat.net/"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/nodegoat.png" style="width:170px"></a>
+
+**Nodegoat**, with Pim van Bree and Geert Kessels
 
 ## Papers
 
