@@ -12,7 +12,7 @@ The Historical Network Research 2024 conference program includes 23 long papers,
 
 ![Conference program](/img/hnr2024programv1.png)
  
-# Speakers
+## Speakers
 
 <a href="https://www.sciencespo.fr/cso/en/researcher/Claire%20Lemercier/1022.html"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/clairelemercier.png" style="width:100px"></a> 
 
