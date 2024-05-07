@@ -10,7 +10,7 @@ cover: false
 # Program
 The Historical Network Research 2024 conference program includes 23 long papers, 19 short papers, 3 keynotes and 2 workshops. It will bring together colleagues from over fifteen countries. Please note that workshop registration is separate from the conference (but also free of charge).
 
-![Conference program](/img/hnr2024_program_v1.png)
+![Conference program](/img/hnr2024programv1.png)
  
 
 
