@@ -9,8 +9,6 @@ cover: false
 
 # Program
 
-* Table of contents
-{:toc}
 
 # Monday 8 July
 
@@ -41,7 +39,7 @@ cover: false
 
 **[Martin Grandjean](https://www.martingrandjean.ch)**, Senior Researcher at the University of Lausanne. See also [martingrandjean.ch](https://www.martingrandjean.ch)
 
-### HNR Lecture: "Title"
+### HNR Keynote
 <a href="https://www.c2dh.uni.lu/people/marten-during"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/martenduring.png" style="width:100px"></a> 
 
 **[Marten Düring](https://www.c2dh.uni.lu/people/marten-during)**, Assistant Professor at the University of Luxembourg (Luxembourg). See also [martenduering.com](https://martenduering.com/)
@@ -105,8 +103,24 @@ cover: false
   * Chiara Bonomelli
 * Finance, business and Cultural Cold War: exploring transatlantic associationism's networks in post-war Italy
   * Giulia Clarizia
+ 
+# Wednesday 10 July
 
-## Keynote speakers
+## 9:00-10:30 PARALLEL SESSIONS
+### SESSION 7
+### SESSION 8
+
+## 11:00-12:30 PARALLEL SESSIONS
+### SESSION 9
+### SESSION 10
+
+## 14:00-15:30 PARALLEL SESSIONS
+### SESSION 11
+### SESSION 12
+
+## 16:00-17:30 PLENARY C
+### Closing keynote
+
 <a href="https://www.sciencespo.fr/cso/en/researcher/Claire%20Lemercier/1022.html"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/clairelemercier.png" style="width:100px"></a> 
 
 **[Claire Lemercier](https://www.sciencespo.fr/cso/en/researcher/Claire%20Lemercier/1022.html)**, Research Director CNRS, SciencesPo Paris (France). See also [quanthum.hypotheses.org](https://quanthum.hypotheses.org/)
