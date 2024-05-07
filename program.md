@@ -55,7 +55,6 @@ cover: false
   * Maarten F. Van Dijck
 
 ### SESSION 2: Long papers
-
 * Le marché foncier à Lausanne au 19e siècle. Mutations et réseaux des protagonistes.
   * Lucas Rappo
 * Communicating about communication: Using graph comics to explore communication networks in letters of Early Romanticism
@@ -74,7 +73,6 @@ cover: false
   * Silvan Auf der Maur
 
 ### SESSION 4: Short papers
-
 * Religious Networks in Late Babylonian Period (RelNet)
   * Rocio Da Riva
 * Archaeological networks in pre-Roman Italy: approaching new visual methodologies
@@ -107,16 +105,63 @@ cover: false
 # Wednesday 10 July
 
 ## 9:00-10:30 PARALLEL SESSIONS
-### SESSION 7
-### SESSION 8
+### SESSION 7: Long papers
+* Gender diversity in the historical networks of Soviet film production
+  * Vejune Zemaityte, Mila Oiva, Ksenia Mukhina, Aaron Schecter, Noshir S Contractor, Maximilian Schich
+* Tracing the Network Continuity: From the Socialist to the Communist Women's Movement (1907-1934)
+  * Minja Bujakovic
+* The transfer of German pedagogical knowledge to Turkey through Turkish educators in the Early Republican Era: A historical social network study in the field of transnational education
+  * Seyma Aksoy
+
+### SESSION 8: Long papers
+* L'analyse de réseaux pour l'étude des coopérations intergouvernementales : le cas du Bureau International d'Éducation (1929-1952)
+  * Émeline Brylinski
+* Visual Exchanges as a Network: The Case of Avant-Garde Periodicals
+  * Nicola Carboni
+* The networked geography of a newspaper
+  * Zef Segal
 
 ## 11:00-12:30 PARALLEL SESSIONS
-### SESSION 9
-### SESSION 10
+### SESSION 9: Long papers
+* Exploring Biographical Networks of Person Objects from Newspaper Clippings in Herder Institute
+  * Erdal Ayan
+* Interactive Visualization of Linked Open Data Networks Representing Historical Writings
+  * Sepideh Alassi
+* Visualising Bibliographical Data on Polish Literature after 1989
+  * Maciej Maryl
+
+### SESSION 10: Short papers
+* Networks of Displacement: Spatial and Temporal Dynamics of Post-WWII Migration and Resettlement
+  * Konstantin Schischka
+* High Density = High Citations? Approaches for Tracking Knowledge Evolution
+  * Raphael Schlattmann, Malte Vogl, Aleksandra Kaye
+* Complex networks allow a quantitative analysis of historical networks by data mining the Wikipedia corpus
+  * Gustavo A. Schwartz
+* Geospatial Network of Internees in Switzerland during the Second World War - A Proof of Concept
+  * Nóirín Ailis Rice
+* Containing complexity: Networks of expertise and the emergence of genetic epidemiology, 1900-1990
+  * Carolina Mayes
 
 ## 14:00-15:30 PARALLEL SESSIONS
-### SESSION 11
-### SESSION 12
+### SESSION 11: Long papers
+* Networks and textual production during the Middle Ages (12th-15th centuries)
+  * Pierre Lebec, Stéphane Lamassé
+* Modéliser les réseaux de pouvoir de la fin du Moyen Âge
+  * Raphaël Carbonne
+* Network hermeneutics: exploring the meaning of a source using network analysis, case of inquisitorial protocols from 14th century Stettin
+  * Kaarel Sikk, Välimäki Reima, David Zbíral
+
+### SESSION 12: Short papers
+* Mapping Anglo-Swiss Travel Writing in the 17th and 18th Century
+  * Stefanie Heeg
+* Using citation networks for viewpoint plurality assessment of historical literary corpora: The case of the Medieval Rabbinic corpus
+  * Maayan Zhitomirsky-Geffet, Nati Ben-Gigi, Binyamin Katzoff, Jonathan Schler
+* Gouverner à distance : analyse d'un réseau d'espionnage contre-révolutionnaire dans l'Europe de la Révolution et de l'Empire napoléonien
+  * Karine Rance, Aurelia Vasile
+* Mapping the networks of the Accademia dei Nobili della Giudecca: a sous-champ of the 18th Venetian Reforming Era
+  * Filippo Soramel, Bastien Tourenc
+* Radical translators (Britain, France and Italy, 1789-1815) through the lens of a network visualisation
+  * Miguel Vieira, Arianna Ciula, Rosa Mucignat, Sanja Perovic
 
 ## 16:00-17:30 PLENARY C
 ### Closing keynote
@@ -124,4 +169,6 @@ cover: false
 <a href="https://www.sciencespo.fr/cso/en/researcher/Claire%20Lemercier/1022.html"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/clairelemercier.png" style="width:100px"></a> 
 
 **[Claire Lemercier](https://www.sciencespo.fr/cso/en/researcher/Claire%20Lemercier/1022.html)**, Research Director CNRS, SciencesPo Paris (France). See also [quanthum.hypotheses.org](https://quanthum.hypotheses.org/)
+
+### Closing remarks and next HNR conference announcement
 
