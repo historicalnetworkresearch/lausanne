@@ -8,6 +8,8 @@ cover: false
 ---
 
 # Program
+![Conference program](/img/hnr2024_program_v1.png)
+ 
 
 
 # Monday 8 July
