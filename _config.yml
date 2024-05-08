@@ -58,6 +58,8 @@ menu:
     url:               /cfp/
   - title:             Program
     url:               /program/  
+  - title:             Workshops
+    url:               /workshops/  
   - title:             Practical informations
     url:               /practical/
   - title:             Organization
