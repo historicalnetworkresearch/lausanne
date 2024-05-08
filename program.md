@@ -16,21 +16,25 @@ The Historical Network Research 2024 conference program includes 23 long papers,
 
 <a href="https://www.sciencespo.fr/cso/en/researcher/Claire%20Lemercier/1022.html"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/clairelemercier.png" style="width:100px"></a> 
 
-**[Claire Lemercier](https://www.sciencespo.fr/cso/en/researcher/Claire%20Lemercier/1022.html)**, Research Director CNRS, SciencesPo Paris (France). See also [quanthum.hypotheses.org](https://quanthum.hypotheses.org/)
+**[Claire Lemercier](https://www.sciencespo.fr/cso/en/researcher/Claire%20Lemercier/1022.html)**, Research Director CNRS, SciencesPo Paris (France), see also [quanthum.hypotheses.org](https://quanthum.hypotheses.org/). Claire Lemercier will give the closing plenary keynote, where she will react to the various presentations in an attempt to highlight the contributions of the conference, and assess how far we have come (and how far we still have to go).
 
 <a href="https://vbn.aau.dk/en/persons/144218"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/mathieujacomy.png" style="width:100px"></a> 
 
-**[Mathieu Jacomy](https://vbn.aau.dk/en/persons/144218)**, Assistant Professor at the University of Aalborg in Copenhagen (Denmark). See also [reticular.hypotheses.org](https://reticular.hypotheses.org/)
+**[Mathieu Jacomy](https://vbn.aau.dk/en/persons/144218)**, Assistant Professor at the University of Aalborg in Copenhagen (Denmark), see also [reticular.hypotheses.org](https://reticular.hypotheses.org/). After giving a pre-conference workshop, Mathieu Jacomy will open the conference with the first keynote. He will discuss our network visualisation practices and show where they fit into our hermeneutic engagement with our data.
 
 <a href="https://www.c2dh.uni.lu/people/marten-during"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/martenduring.png" style="width:100px"></a> 
 
-**[Marten Düring](https://www.c2dh.uni.lu/people/marten-during)**, Assistant Professor at the University of Luxembourg (Luxembourg). See also [martenduering.com](https://martenduering.com/)
+**[Marten Düring](https://www.c2dh.uni.lu/people/marten-during)**, Assistant Professor at the University of Luxembourg (Luxembourg), see also [martenduering.com](https://martenduering.com/). As founder of the Historical Network Research Community, Marten Düring will open Tuesday's debates by showing how much our field has evolved since its earliest beginnings. 
 
 <a href="https://nodegoat.net/"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/nodegoat.png" style="width:170px"></a>
 
-**Pim van Bree** and **Geert Kessels**, founders of Nodegoat. See also [nodegoat.net](https://nodegoat.net/)
+**Pim van Bree** and **Geert Kessels**, founders of [nodegoat.net](https://nodegoat.net/). The creators of a tool designed for research into historical networks, Pim van Bree and Geert Kessels will be leading a pre-conference workshop to demonstrate its potential.
+
+___
 
 # Monday 8 July
+
+Monday 8 July will consist of two workshops, followed by the opening plenary session. Registration for the workshops is independent of the conference: [informations and registration here](/lausanne/workshops). 
 
 ## 9:00-12:30 WORKSHOP 1
 ### Visual Network Analysis
@@ -43,6 +47,8 @@ The Historical Network Research 2024 conference program includes 23 long papers,
 ## 18:00-19:30 PLENARY A
 ### Opening keynote: "Irreductionist network visualization"
   * Mathieu Jacomy
+
+___
 
 # Tuesday 9 July
 
@@ -110,7 +116,9 @@ The Historical Network Research 2024 conference program includes 23 long papers,
   * Chiara Bonomelli
 * Finance, business and Cultural Cold War: exploring transatlantic associationism's networks in post-war Italy
   * Giulia Clarizia
- 
+
+___
+
 # Wednesday 10 July
 
 ## 9:00-10:30 PARALLEL SESSIONS
