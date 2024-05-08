@@ -68,7 +68,7 @@ ___
 
 ### SESSION 1: Long papers
 * Networks of Confessional Affiliation: Religious Choice and the Schism of Utrecht
-  * Jaap Geraerts, Demival Vasques Flho
+  * Jaap Geraerts, Demival Vasques Filho
 * Emerging Maximilian: temporal co-occurrences network analysis of people mentioned in Regesta Imperii XIII
   * Marcella Tambuscio, Daniel Luger, Georg Vogeler
 * Inclusive institutions? Access to political power in the city of Tainan (Fort Zeelandia) in Dutch Formosa (1655-1662)
@@ -162,7 +162,7 @@ ___
 * Geospatial Network of Internees in Switzerland during the Second World War - A Proof of Concept
   * Nóirín Ailis Rice
 * Containing complexity: Networks of expertise and the emergence of genetic epidemiology, 1900-1990
-  * Carolina Mayes
+  * Carolina Mayes, Rhodri Leng
 
 ## 14:00-15:30 PARALLEL SESSIONS
 ### SESSION 11: Long papers
