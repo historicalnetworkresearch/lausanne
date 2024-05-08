@@ -30,6 +30,10 @@ The Historical Network Research 2024 conference program includes 23 long papers,
 
 **Pim van Bree** and **Geert Kessels**, founders of [nodegoat.net](https://nodegoat.net/). The creators of a tool designed for research into historical networks, Pim van Bree and Geert Kessels will be leading a pre-conference workshop to demonstrate its potential.
 
+<a href="http://www.martingrandjean.ch"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/martingrandjean.png" style="width:100px"></a> 
+
+**Martin Grandjean**, Senior Researcher at the University of Lausanne (Switzerland), see also [martingrandjean.ch](https://www.martingrandjean.ch). As conference organizer, Martin Grandjean will chair the opening plenary.
+
 ___
 
 # Monday 8 July
