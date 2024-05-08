@@ -11,7 +11,7 @@ cover: false
 Historical objects are fertile ground for network analysis, since they often consist of complex situations in which actors, places, organisations, concepts, etc. are intertwined.
 With the help of internationally renowned experts, the aim of this event is to discuss in greater depth our uses of network visualisation (workshop 1) and to discover a tool developed specifically with the needs of historians in mind (workshop 2). 
 
-This day precedes the HNR2024 conference and takes place at the same venue (Synathlon building, University of Lausanne, see [practical info](practical)). It closes with the opening plenary session, a keynote lecture by Mathieu Jacomy, to which workshop participants are of course welcome.
+This day precedes the HNR2024 conference and takes place at the same venue (Synathlon building, University of Lausanne, see [practical info](lausanne/practical)). It closes with the opening plenary session, a keynote lecture by Mathieu Jacomy, to which workshop participants are of course welcome.
 
 Anyone is welcome to take part, and there's no need to have any previous knowledge of network analysis.
  
