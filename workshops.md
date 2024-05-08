@@ -41,4 +41,4 @@ To ensure that the workshops run smoothly, **registration is separate from the c
 
 Please note that as places are limited, your registration is final. Once the number of registrations exceeds the capacity of the in-person workshop, you will be placed on a waiting list and informed a few weeks in advance if a place becomes available. It is therefore important to keep us informed if you cancel your registration.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeyRpkmCoH1gzCwU3jLJZc3gxqRMYijSXEDIs8fmwxSoBN1rg/viewform?embedded=true" width="720" height="1500" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeyRpkmCoH1gzCwU3jLJZc3gxqRMYijSXEDIs8fmwxSoBN1rg/viewform?embedded=true" width="720" height="1600" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
