@@ -7,8 +7,8 @@ hide_image: false
 cover: false
 ---
 
-# Program
-The Historical Network Research 2024 conference program includes 23 long papers, 19 short papers, 3 keynotes and 2 workshops. It will bring together colleagues from over fifteen countries. Please note that workshop registration is separate from the conference (but also free of charge).
+# Network Analysis Workshops
+
 
  
 ## Speakers
@@ -22,4 +22,6 @@ The Historical Network Research 2024 conference program includes 23 long papers,
 
 **Pim van Bree** and **Geert Kessels**, founders of Nodegoat. See also [nodegoat.net](https://nodegoat.net/)
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeyRpkmCoH1gzCwU3jLJZc3gxqRMYijSXEDIs8fmwxSoBN1rg/viewform?embedded=true" width="640" height="1357" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
+## Registration
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeyRpkmCoH1gzCwU3jLJZc3gxqRMYijSXEDIs8fmwxSoBN1rg/viewform?embedded=true" width="720" height="1500" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
