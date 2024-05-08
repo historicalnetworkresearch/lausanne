@@ -46,7 +46,7 @@ Monday 8 July will consist of two workshops, followed by the opening plenary ses
   * Mathieu Jacomy
 
 ## 14:00-17:30 WORKSHOP 2
-### Nodegoat
+### Historical network analysis with nodegoat
   * Pim van Bree and Geert Kessels
 
 ## 18:00-19:30 PLENARY A
