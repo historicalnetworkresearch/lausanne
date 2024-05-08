@@ -16,9 +16,9 @@ This day precedes the HNR2024 conference and takes place at the same venue (Syna
 
 > Anyone is welcome to take part, and there's no need to have any previous knowledge of network analysis.
 
-These workshops are supported by the Atelier des Histoires of the University of Lausanne. 
+These workshops are supported by the [Atelier des Histoires](https://www.unil.ch/atelier-des-histoires/home.html) of the University of Lausanne. 
 
-<img src="img/unilogo_noir.jpg" width="200"> 
+<a href="https://www.unil.ch/atelier-des-histoires/home.html"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/unilogo_noir.jpg" style="width:200px"></a>
 
 ## Workshop 1: "Visual Network Analysis" with Mathieu Jacomy
 How do I read a network graph? A pioneer in network visualisation, Mathieu Jacomy is also the creator of the Gephi software, widely used in our disciplines. But this is not a Gephi workshop, rather a practical way of understanding what can be learned from these complex images.
