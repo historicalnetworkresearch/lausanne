@@ -36,7 +36,7 @@ Nodegoat ([nodegoat.net](https://nodegoat.net/)) is an online research environme
 
 **Pim van Bree** and **Geert Kessels**, founders of Nodegoat. 
 
-## Registration
+# Registration
 To ensure that the workshops run smoothly, **registration is separate from the conference registration**. Those who have already registered for the conference must therefore also complete the form below. It is of course possible to attend the workshops without taking part in the conference itself afterwards.
 
 Please note that as places are limited, your registration is final. Once the number of registrations exceeds the capacity of the in-person workshop, you will be placed on a waiting list and informed a few weeks in advance if a place becomes available. It is therefore important to keep us informed if you cancel your registration.
