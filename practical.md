@@ -16,9 +16,11 @@ cover: false
 ### Registration
 The conference is free of charge. Please note that the conference does not cover travel or accommodation expenses for participants.
 
-**Registration is now open:** go to the [conference management platform and create an account](https://hnr2024.sciencesconf.org/)!
+**Conference registration:** go to the [conference management platform and create an account](https://hnr2024.sciencesconf.org/)!
 
-Registration for workshops on Monday July 8 will open later. All conference registrants will be warmly invited to participate in these highly stimulating workshops. Participation in workshops is free of charge.
+The workshops are also free of charge, but the number of participants is limited.  
+
+**Workshop registration:** [informations and registration here](/lausanne/workshops).
 
 ### Venue
 
