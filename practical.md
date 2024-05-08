@@ -36,7 +36,7 @@ There are several food options on campus, in nearby buildings (5-8 minutes' walk
 
 ### Online participation
 
-The conference is an on-site event, but streaming of sessions is planned. 
+The conference is an on-site event, but the sessions will be streamed on Zoom. You need to [register for the conference](https://hnr2024.sciencesconf.org/) (select "online") to access the virtual rooms. 
 
 ## Lausanne
 ### Transportation
