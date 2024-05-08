@@ -33,7 +33,7 @@ The Historical Network Research 2024 conference program includes 23 long papers,
 <a href="http://www.martingrandjean.ch"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/martingrandjean.png" style="width:100px"></a> 
 
 **Martin Grandjean**, Senior Researcher at the University of Lausanne (Switzerland), see also [martingrandjean.ch](https://www.martingrandjean.ch). As conference organizer, Martin Grandjean will chair the opening plenary.
-
+<br>
 ___
 
 # Monday 8 July
