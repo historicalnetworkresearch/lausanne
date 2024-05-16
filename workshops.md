@@ -16,6 +16,8 @@ With the help of internationally renowned experts, the aim of this event is to d
 
 This day precedes the HNR2024 conference and takes place at the same venue (Synathlon building, University of Lausanne, see [practical info](/lausanne/practical)). It closes with the opening plenary session, a keynote lecture by Mathieu Jacomy, to which workshop participants are of course welcome. [Take a look at the full programme for these three days of historical network analysis](/lausanne/program). 
 
+> Please note that workshops take place in person only. 
+
 These workshops are supported by the [Atelier des Histoires](https://www.unil.ch/atelier-des-histoires/home.html) of the University of Lausanne. 
 
 <a href="https://www.unil.ch/atelier-des-histoires/home.html"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/unilogo_noir.jpg" style="width:200px"></a>
