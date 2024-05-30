@@ -36,9 +36,9 @@ Jaap Geraerts, Demival Vasques Filho
 <div class='altmetric-embed' data-badge-type='bar' data-badge-popover='right' data-doi="10.5281/zenodo.5083036"></div>
 
 
-<div class='altmetric-embed' data-badge-type='1' data-badge-popover='right' data-doi="10.5281/zenodo.4065429"></div>
+<div class='altmetric-embed' data-badge-type='donut' data-badge-popover='right' data-doi="10.5281/zenodo.4065429"></div>
 
-<div class='altmetric-embed' data-badge-type='2' data-badge-popover='right' data-doi="10.5281/zenodo.1478505"></div>
+<div class='altmetric-embed' data-badge-type='donut' data-badge-popover='right' data-doi="10.5281/zenodo.1478505"></div>
 
 <div class='altmetric-embed' data-badge-type='bar' data-badge-popover='right' data-doi="10.5281/zenodo.4745006"></div>
 
