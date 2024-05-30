@@ -13,24 +13,27 @@ This is a test
 
 ***
 
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1093/isq/sqae073"></div>
-
 **Networks of Confessional Affiliation: Religious Choice and the Schism of Utrecht**
+
 Jaap Geraerts, Demival Vasques Filho
+
+<div class='altmetric-embed' data-badge-type='bar' data-badge-popover='right' data-doi="10.1093/isq/sqae073"></div>
 
 ***
 
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1093/isq/sqae073"></div>
-
 **Networks of Confessional Affiliation: Religious Choice and the Schism of Utrecht**
+
 Jaap Geraerts, Demival Vasques Filho
+
+<div class='altmetric-embed' data-badge-type='donut' data-badge-popover='right' data-doi="10.1093/isq/sqae073"></div>
 
 ***
 
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1093/isq/sqae073"></div>
-
 **Networks of Confessional Affiliation: Religious Choice and the Schism of Utrecht**
+
 Jaap Geraerts, Demival Vasques Filho
+
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1093/isq/sqae073"></div>
 
 
 
