@@ -16,4 +16,4 @@ You can view and download it by clicking on the button below, or access each pap
 
 <a href="https://doi.org/10.5281/zenodo.12532492"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/bookofabstracts.png" style="width:600px"></a>
 
-The DOI of the Book of abstracts is [10.5281/zenodo.12532492](https://doi.org/10.5281/zenodo.12532492)
+The DOI of the Book of abstracts is [10.5281/zenodo.12532492](https://doi.org/10.5281/zenodo.12532492). All papers also have their own Zenodo DOI.
