@@ -226,66 +226,152 @@ ___
 
 ## 9:00-10:30 PARALLEL SESSIONS
 ### SESSION 7: Long papers
-* Gender diversity in the historical networks of Soviet film production
-  * Vejune Zemaityte, Mila Oiva, Ksenia Mukhina, Aaron Schecter, Noshir S Contractor, Maximilian Schich
-* Tracing the Network Continuity: From the Socialist to the Communist Women's Movement (1907-1934)
-  * Minja Bujakovic
-* The transfer of German pedagogical knowledge to Turkey through Turkish educators in the Early Republican Era: A historical social network study in the field of transnational education
-  * Seyma Aksoy
+<table>
+  <tr>
+    <td>Gender diversity in the historical networks of Soviet film production</td>
+    <td>Vejune Zemaityte, Mila Oiva, Ksenia Mukhina, Aaron Schecter, Noshir S Contractor, Maximilian Schich</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12598735','_blank')">PDF</button></td>
+  </tr>
+  <tr>
+    <td>Tracing the Network Continuity: From the Socialist to the Communist Women's Movement (1907-1934)</td>
+    <td>Minja Bujakovic</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606097','_blank')">PDF</button></td>
+  </tr>
+  <tr>
+    <td>The transfer of German pedagogical knowledge to Turkey through Turkish educators in the Early Republican Era: A historical social network study in the field of transnational education</td>
+    <td>Seyma Aksoy</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606076','_blank')">PDF</button></td>
+  </tr>
+</table>
 
 ### SESSION 8: Long papers
-* L'analyse de réseaux pour l'étude des coopérations intergouvernementales : le cas du Bureau International d'Éducation (1929-1952)
-  * Émeline Brylinski
-* Visual Exchanges as a Network: The Case of Avant-Garde Periodicals
-  * Nicola Carboni
-* The networked geography of a newspaper
-  * Zef Segal
+<table>
+  <tr>
+    <td>L'analyse de réseaux pour l'étude des coopérations intergouvernementales : le cas du Bureau International d'Éducation (1929-1952)</td>
+    <td>Émeline Brylinski</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12598823','_blank')">PDF</button></td>
+  </tr>
+  <tr>
+    <td>Visual Exchanges as a Network: The Case of Avant-Garde Periodicals</td>
+    <td>Nicola Carboni</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606145','_blank')">PDF</button></td>
+  </tr>
+  <tr>
+    <td>The networked geography of a newspaper</td>
+    <td>Zef Segal</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606057','_blank')">PDF</button></td>
+  </tr>
+</table>
 
 ## 11:00-12:30 PARALLEL SESSIONS
 ### SESSION 9: Long papers
-* Exploring Biographical Networks of Person Objects from Newspaper Clippings in Herder Institute
-  * Erdal Ayan
-* Interactive Visualization of Linked Open Data Networks Representing Historical Writings
-  * Sepideh Alassi
-* Visualising Bibliographical Data on Polish Literature after 1989
-  * Maciej Maryl
+<table>
+  <tr>
+    <td>Exploring Biographical Networks of Person Objects from Newspaper Clippings in Herder Institute</td>
+    <td>Erdal Ayan</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12598721','_blank')">PDF</button></td>
+  </tr>
+  <tr>
+    <td>Interactive Visualization of Linked Open Data Networks Representing Historical Writings</td>
+    <td>Sepideh Alassi</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12598807','_blank')">PDF</button></td>
+  </tr>
+  <tr>
+    <td>Visualising Bibliographical Data on Polish Literature after 1989</td>
+    <td>Maciej Maryl</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606176','_blank')">PDF</button></td>
+  </tr>
+</table>
 
 ### SESSION 10: Short papers
-* Networks of Displacement: Spatial and Temporal Dynamics of Post-WWII Migration and Resettlement
-  * Konstantin Schischka
-* High Density = High Citations? Approaches for Tracking Knowledge Evolution
-  * Raphael Schlattmann, Malte Vogl, Aleksandra Kaye
-* Complex networks allow a quantitative analysis of historical networks by data mining the Wikipedia corpus
-  * Gustavo A. Schwartz
-* Geospatial Network of Internees in Switzerland during the Second World War - A Proof of Concept
-  * Nóirín Ailis Rice
-* Containing complexity: Networks of expertise and the emergence of genetic epidemiology, 1900-1990
-  * Carolina Mayes, Rhodri Leng
+<table>
+  <tr>
+    <td>Networks of Displacement: Spatial and Temporal Dynamics of Post-WWII Migration and Resettlement</td>
+    <td>Konstantin Schischka</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606551','_blank')">PDF</button></td>
+  </tr>
+  <tr>
+    <td>High Density = High Citations? Approaches for Tracking Knowledge Evolution</td>
+    <td>Raphael Schlattmann, Malte Vogl, Aleksandra Kaye</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606485','_blank')">PDF</button></td>
+  </tr>
+  <tr>
+    <td>Complex networks allow a quantitative analysis of historical networks by data mining the Wikipedia corpus</td>
+    <td>Gustavo A. Schwartz</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606379','_blank')">PDF</button></td>
+  </tr>
+  <tr>
+    <td>Geospatial Network of Internees in Switzerland during the Second World War - A Proof of Concept</td>
+    <td>Nóirín Ailis Rice</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606451','_blank')">PDF</button></td>
+  </tr>
+ <tr>
+    <td>Containing complexity: Networks of expertise and the emergence of genetic epidemiology, 1900-1990</td>
+    <td>Carolina Mayes, Rhodri Leng</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606399','_blank')">PDF</button></td>
+  </tr>
+</table>
 
 ## 14:00-15:30 PARALLEL SESSIONS
 ### SESSION 11: Long papers
-* Networks and textual production during the Middle Ages (12th-15th centuries)
-  * Pierre Lebec, Stéphane Lamassé
-* Modéliser les réseaux de pouvoir de la fin du Moyen Âge
-  * Raphaël Carbonne
-* Network hermeneutics: exploring the meaning of a source using network analysis, case of inquisitorial protocols from 14th century Stettin
-  * Kaarel Sikk, Välimäki Reima, David Zbíral
+<table>
+  <tr>
+    <td>Networks and textual production during the Middle Ages (12th-15th centuries)</td>
+    <td>Pierre Lebec, Stéphane Lamassé</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12605932','_blank')">PDF</button></td>
+  </tr>
+  <tr>
+    <td>Modéliser les réseaux de pouvoir de la fin du Moyen Âge</td>
+    <td>Raphaël Carbonne</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12599115','_blank')">PDF</button></td>
+  </tr>
+  <tr>
+    <td>Network hermeneutics: exploring the meaning of a source using network analysis, case of inquisitorial protocols from 14th century Stettin</td>
+    <td>Kaarel Sikk, Välimäki Reima, David Zbíral</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12605911','_blank')">PDF</button></td>
+  </tr>
+</table>
 
 ### SESSION 12: Short papers
-* Mapping Anglo-Swiss Travel Writing in the 17th and 18th Century
-  * Stefanie Heeg
-* Using citation networks for viewpoint plurality assessment of historical literary corpora: The case of the Medieval Rabbinic corpus
-  * Maayan Zhitomirsky-Geffet, Nati Ben-Gigi, Binyamin Katzoff, Jonathan Schler
-* Gouverner à distance : analyse d'un réseau d'espionnage contre-révolutionnaire dans l'Europe de la Révolution et de l'Empire napoléonien
-  * Karine Rance, Aurelia Vasile
-* Mapping the networks of the Accademia dei Nobili della Giudecca: a sous-champ of the 18th Venetian Reforming Era
-  * Filippo Soramel, Bastien Tourenc
-* Radical translators (Britain, France and Italy, 1789-1815) through the lens of a network visualisation
-  * Miguel Vieira, Arianna Ciula, Rosa Mucignat, Sanja Perovic
+<table>
+  <tr>
+    <td>Mapping Anglo-Swiss Travel Writing in the 17th and 18th Century</td>
+    <td>Stefanie Heeg</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606502','_blank')">PDF</button></td>
+  </tr>
+  <tr>
+    <td>Using citation networks for viewpoint plurality assessment of historical literary corpora: The case of the Medieval Rabbinic corpus</td>
+    <td>Maayan Zhitomirsky-Geffet, Nati Ben-Gigi, Binyamin Katzoff, Jonathan Schler</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606683','_blank')">PDF</button></td>
+  </tr>
+  <tr>
+    <td>Gouverner à distance : analyse d'un réseau d'espionnage contre-révolutionnaire dans l'Europe de la Révolution et de l'Empire napoléonien</td>
+    <td>Karine Rance, Aurelia Vasile</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606467','_blank')">PDF</button></td>
+  </tr>
+  <tr>
+    <td>Mapping the networks of the Accademia dei Nobili della Giudecca: a sous-champ of the 18th Venetian Reforming Era</td>
+    <td>Filippo Soramel, Bastien Tourenc</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606534','_blank')">PDF</button></td>
+  </tr>
+ <tr>
+    <td>Radical translators (Britain, France and Italy, 1789-1815) through the lens of a network visualisation</td>
+    <td>Miguel Vieira, Arianna Ciula, Rosa Mucignat, Sanja Perovic</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606575','_blank')">PDF</button></td>
+  </tr>
+</table>
 
 ## 16:00-17:30 PLENARY C
-### Closing keynote
-  * Claire Lemercier
 
-### Closing remarks and next HNR conference announcement
-
+<table>
+ <tr>
+    <td><b>Closing keynote</b></td>
+    <td>Claire Lemercier</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b>Closing remarks and next HNR conference announcement</b></td>
+    <td>Martin Grandjean</td>
+    <td></td>
+  </tr>
+</table>
