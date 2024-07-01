@@ -59,10 +59,18 @@ ___
 
 ## 9:00-10:30 PLENARY B
 ### Opening session
-  * Martin Grandjean
-
-### HNR Keynote
-  * Marten Düring
+<table>
+ <tr>
+    <td>Introduction to the conference</td>
+    <td>Martin Grandjean</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>HNR Keynote</td>
+    <td>Marten Düring</td>
+    <td></td>
+  </tr>
+</table>
 
 ## 11:00-12:30 PARALLEL SESSIONS
 
