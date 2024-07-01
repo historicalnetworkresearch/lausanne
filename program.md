@@ -63,7 +63,8 @@ ___
  <tr>
     <td><a href="https://doi.org/10.5281/zenodo.12606760">Introduction to the conference</a></td>
     <td>Martin Grandjean</td>
-    <td><button class="button button2" onclick="window.location.href='https://doi.org/10.5281/zenodo.12606760','_blank';">PDF</button></td>
+    <td><button class="button button2" onclick="window.location.href='https://doi.org/10.5281/zenodo.12606760';">PDF</button></td>
+  <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606760','_blank')">PDF</button></td>
   </tr>
   <tr>
     <td>HNR Keynote</td>
