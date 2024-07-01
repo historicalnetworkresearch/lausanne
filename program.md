@@ -116,42 +116,94 @@ ___
 ## 14:00-15:30 PARALLEL SESSIONS
 
 ### SESSION 3: Long papers
-* Les réseaux urbains lyonnais pendant la guerre civile (1589-1594)
-  * Graziella Gentet
-* ‘Our Maist Speciall Freindis': Using historical network analysis to study clan structures in early modern Scotland
-  * Katharina Pruente
-* The Diplomatic Networks of Ancient Athens: The Evidence from the Decrees
-  * Silvan Auf der Maur
+<table>
+  <tr>
+    <td>Les réseaux urbains lyonnais pendant la guerre civile (1589-1594)</td>
+    <td>Graziella Gentet</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12599049','_blank')">PDF</button></td>
+  </tr>
+  <tr>
+    <td>‘Our Maist Speciall Freindis': Using historical network analysis to study clan structures in early modern Scotland</td>
+    <td>Katharina Pruente</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606001','_blank')">PDF</button></td>
+  </tr>
+  <tr>
+    <td>The Diplomatic Networks of Ancient Athens: The Evidence from the Decrees</td>
+    <td>Silvan Auf der Maur</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606021','_blank')">PDF</button></td>
+  </tr>
+</table>
+
+
 
 ### SESSION 4: Short papers
-* Religious Networks in Late Babylonian Period (RelNet)
-  * Rocio Da Riva
-* Archaeological networks in pre-Roman Italy: approaching new visual methodologies
-  * Tayla Newland
-* Beyond nodegoat: a critical look at historical network research workflows
-  * Pim van Bree, Geert Kessels
-* Visualization of Early Islamicate Scholars' Network
-  * Tuba Nur Saraçoğlu
-* Representing discourses as networks: potential applications of TheSu XML in network analysis for the history of ideas and science
-  * Daniele Morrone
+<table>
+  <tr>
+    <td>Religious Networks in Late Babylonian Period (RelNet)</td>
+    <td>Rocio Da Riva</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606596','_blank')">PDF</button></td>
+  </tr>
+  <tr>
+    <td>Archaeological networks in pre-Roman Italy: approaching new visual methodologies</td>
+    <td>Tayla Newland</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606345','_blank')">PDF</button></td>
+  </tr>
+  <tr>
+    <td>Beyond nodegoat: a critical look at historical network research workflows</td>
+    <td>Pim van Bree, Geert Kessels</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606364','_blank')">PDF</button></td>
+  </tr>
+  <tr>
+    <td>Visualization of Early Islamicate Scholars' Network</td>
+    <td>Tuba Nur Saraçoğlu</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606738','_blank')">PDF</button></td>
+  </tr>
+   <tr>
+    <td>Representing discourses as networks: potential applications of TheSu XML in network analysis for the history of ideas and science</td>
+    <td>Daniele Morrone</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606611','_blank')">PDF</button></td>
+  </tr>
+</table>
 
 ## 16.00-17:30 PARALLEL SESSIONS
 
 ### SESSION 5: Long papers
-* Analysing artistic network of the Basilian order in Eighteenth-Century Poland-Lithuania: a digital humanities approach
-  * Tomasz Panecki, Melchior Jakubowski
-* Integrating library and prosopographical data in the early modern publication network of the University of Louvain (1501-1797)
-  * Rossana Scebba, Margherita Fantoli
+<table>
+  <tr>
+    <td>Analysing artistic network of the Basilian order in Eighteenth-Century Poland-Lithuania: a digital humanities approach</td>
+    <td>Tomasz Panecki, Melchior Jakubowski</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12598468','_blank')">PDF</button></td>
+  </tr>
+  <tr>
+    <td>Integrating library and prosopographical data in the early modern publication network of the University of Louvain (1501-1797)</td>
+    <td>Rossana Scebba, Margherita Fantoli</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12598789','_blank')">PDF</button></td>
+  </tr>
+</table>
 
 ### SESSION 6: Short papers
-* Viewsari: New Perspectives on Historical Network Analysis in Giorgio Vasari's The Lives Using Knowledge Graphs
-  * Sarah Rebecca Ondraszek, Harald Sack, Etienne Posthumus
-* Shaping British Digital Art: the Global Network of the Computer Arts Society, 1968-1985
-  * Pita Arreola, Jin Gao, Bonnie Buyuklieva
-* The assistance of the Church to the Jews in Milan during the Second World War
-  * Chiara Bonomelli
-* Finance, business and Cultural Cold War: exploring transatlantic associationism's networks in post-war Italy
-  * Giulia Clarizia
+<table>
+  <tr>
+    <td>Viewsari: New Perspectives on Historical Network Analysis in Giorgio Vasari's The Lives Using Knowledge Graphs</td>
+    <td>Sarah Rebecca Ondraszek, Harald Sack, Etienne Posthumus</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606713','_blank')">PDF</button></td>
+  </tr>
+  <tr>
+    <td>Shaping British Digital Art: the Global Network of the Computer Arts Society, 1968-1985</td>
+    <td>Pita Arreola, Jin Gao, Bonnie Buyuklieva</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606637','_blank')">PDF</button></td>
+  </tr>
+  <tr>
+    <td>The assistance of the Church to the Jews in Milan during the Second World War</td>
+    <td>Chiara Bonomelli</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606665','_blank')">PDF</button></td>
+  </tr>
+  <tr>
+    <td>Finance, business and Cultural Cold War: exploring transatlantic associationism's networks in post-war Italy</td>
+    <td>Giulia Clarizia</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606433','_blank')">PDF</button></td>
+  </tr>
+</table>
 
 ___
 
