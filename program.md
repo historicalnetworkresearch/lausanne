@@ -61,12 +61,12 @@ ___
 ### Opening session
 <table>
  <tr>
-    <td>Introduction to the conference</td>
+    <td>[Introduction to the conference](https://doi.org/10.5281/zenodo.12606760)</td>
     <td>Martin Grandjean</td>
-    <td></td>
+    <td>[10.5281/zenodo.12606760](https://doi.org/10.5281/zenodo.12606760)</td>
   </tr>
   <tr>
-    <td>HNR Keynote</td>
+    <td>**HNR Keynote**</td>
     <td>Marten Düring</td>
     <td></td>
   </tr>
