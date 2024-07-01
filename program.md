@@ -63,8 +63,7 @@ ___
  <tr>
     <td><a href="https://doi.org/10.5281/zenodo.12606760">Introduction to the conference</a></td>
     <td>Martin Grandjean</td>
-    <td><button class="button button2" onclick="window.location.href='https://doi.org/10.5281/zenodo.12606760';">PDF</button></td>
-  <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606760','_blank')">PDF</button></td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606760','_blank')">PDF</button></td>
   </tr>
   <tr>
     <td>HNR Keynote</td>
@@ -80,27 +79,39 @@ ___
  <tr>
     <td>Networks of Confessional Affiliation: Religious Choice and the Schism of Utrecht</td>
     <td>Jaap Geraerts, Demival Vasques Filho</td>
-    <td></td>
+   <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12605967','_blank')">PDF</button></td>
   </tr>
   <tr>
     <td>Emerging Maximilian: temporal co-occurrences network analysis of people mentioned in Regesta Imperii XIII</td>
     <td>Marcella Tambuscio, Daniel Luger, Georg Vogeler</td>
-    <td></td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12598653','_blank')">PDF</button></td>
   </tr>
  <tr>
     <td>Inclusive institutions? Access to political power in the city of Tainan (Fort Zeelandia) in Dutch Formosa (1655-1662)</td>
     <td>Maarten F. Van Dijck</td>
-    <td></td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12598771','_blank')">PDF</button></td>
   </tr>
 </table>
 
 ### SESSION 2: Long papers
-* Le marché foncier à Lausanne au 19e siècle. Mutations et réseaux des protagonistes.
-  * Lucas Rappo
-* Communicating about communication: Using graph comics to explore communication networks in letters of Early Romanticism
-  * Elena Suárez Cronauer, Aline Deicke, Laura Fath
-* Levantine Transitions. A Social Network Approach to Elite Formation in Urban Egypt, 1890-1914
-  * Gert Huskens, Jan Vandersmissen, Christophe Verbruggen, Julie Birkholz
+<table>
+  <tr>
+    <td>Le marché foncier à Lausanne au 19e siècle. Mutations et réseaux des protagonistes</td>
+    <td>Lucas Rappo</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12599033','_blank')">PDF</button></td>
+  </tr>
+  <tr>
+    <td>Communicating about communication: Using graph comics to explore communication networks in letters of Early Romanticism</td>
+    <td>Elena Suárez Cronauer, Aline Deicke, Laura Fath</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12598627','_blank')">PDF</button></td>
+  </tr>
+  <tr>
+    <td>Levantine Transitions. A Social Network Approach to Elite Formation in Urban Egypt, 1890-1914</td>
+    <td>Gert Huskens, Jan Vandersmissen, Christophe Verbruggen, Julie Birkholz</td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12599077','_blank')">PDF</button></td>
+  </tr>
+</table>
+
  
 ## 14:00-15:30 PARALLEL SESSIONS
 
