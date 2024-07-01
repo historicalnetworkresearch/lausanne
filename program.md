@@ -42,16 +42,31 @@ ___
 Monday 8 July will consist of two workshops, followed by the opening plenary session. Registration for the workshops is independent of the conference: [informations and registration here](/lausanne/workshops). 
 
 ## 9:00-12:30 WORKSHOP 1
-### Visual Network Analysis
-  * Mathieu Jacomy
+<table>
+ <tr>
+    <td><b>Visual Network Analysis</b></td>
+    <td>Mathieu Jacomy</td>
+    <td></td>
+  </tr>
+</table>
 
 ## 14:00-17:30 WORKSHOP 2
-### Historical network analysis with nodegoat
-  * Pim van Bree and Geert Kessels
+<table>
+ <tr>
+    <td><b>Historical network analysis with nodegoat</b></td>
+    <td>Pim van Bree and Geert Kessels</td>
+    <td></td>
+  </tr>
+</table>
 
 ## 18:00-19:30 PLENARY A
-### Opening keynote: "Irreductionist network visualization"
-  * Mathieu Jacomy
+<table>
+ <tr>
+    <td><b>Opening keynote</b> | Irreductionist network visualization</td>
+    <td>Mathieu Jacomy</td>
+    <td></td>
+  </tr>
+</table>
 
 ___
 
@@ -61,12 +76,12 @@ ___
 ### Opening session
 <table>
  <tr>
-    <td><a href="https://doi.org/10.5281/zenodo.12606760">Introduction to the conference</a></td>
+    <td><b>Introduction to the conference</b> | The State of Historical Network Research: A Perspective from the 2024 Conference</td>
     <td>Martin Grandjean</td>
     <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606760','_blank')">PDF</button></td>
   </tr>
   <tr>
-    <td>HNR Keynote</td>
+    <td><b>HNR Keynote</b></td>
     <td>Marten Düring</td>
     <td></td>
   </tr>
