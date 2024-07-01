@@ -63,7 +63,7 @@ ___
  <tr>
     <td><a href="https://doi.org/10.5281/zenodo.12606760">Introduction to the conference</a></td>
     <td>Martin Grandjean</td>
-    <td></td>
+    <td><a href="https://doi.org/10.5281/zenodo.12606760">10.5281/zenodo.12606760</a></td>
   </tr>
   <tr>
     <td>HNR Keynote</td>
