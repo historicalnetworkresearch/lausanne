@@ -75,12 +75,23 @@ ___
 ## 11:00-12:30 PARALLEL SESSIONS
 
 ### SESSION 1: Long papers
-* Networks of Confessional Affiliation: Religious Choice and the Schism of Utrecht
-  * Jaap Geraerts, Demival Vasques Filho
-* Emerging Maximilian: temporal co-occurrences network analysis of people mentioned in Regesta Imperii XIII
-  * Marcella Tambuscio, Daniel Luger, Georg Vogeler
-* Inclusive institutions? Access to political power in the city of Tainan (Fort Zeelandia) in Dutch Formosa (1655-1662)
-  * Maarten F. Van Dijck
+<table>
+ <tr>
+    <td>Networks of Confessional Affiliation: Religious Choice and the Schism of Utrecht</td>
+    <td>Jaap Geraerts, Demival Vasques Filho</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Emerging Maximilian: temporal co-occurrences network analysis of people mentioned in Regesta Imperii XIII</td>
+    <td>Marcella Tambuscio, Daniel Luger, Georg Vogeler</td>
+    <td></td>
+  </tr>
+ <tr>
+    <td>Inclusive institutions? Access to political power in the city of Tainan (Fort Zeelandia) in Dutch Formosa (1655-1662)</td>
+    <td>Maarten F. Van Dijck</td>
+    <td></td>
+  </tr>
+</table>
 
 ### SESSION 2: Long papers
 * Le marché foncier à Lausanne au 19e siècle. Mutations et réseaux des protagonistes.
