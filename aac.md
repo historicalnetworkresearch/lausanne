@@ -65,8 +65,6 @@ S'il est possible de suivre la conférence en streaming, il s'agit néanmoins d'
 
 01.03.2024 ouverture de l'inscription
 
-30.06.2024 fermeture de l'inscription
-
 8-10.07.2024 conférence
 
 31.08.2024 invitation d'une sélection d'articles pour le JHNR
