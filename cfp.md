@@ -63,8 +63,6 @@ Although it is possible to follow the conference via streaming, it is neverthele
 
 01.03.2024 registration opening
 
-30.06.2024 last possible registration for participants
-
 8-10.07.2024 conference
 
 31.08.2024 invitation of selected articles to JHNR
