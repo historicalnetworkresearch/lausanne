@@ -171,7 +171,7 @@ ___
   <tr>
     <td>Visualization of Early Islamicate Scholars' Network</td>
     <td>Tuba Nur Saraçoğlu</td>
-    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606738','_blank')">PDF</button></td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12627057','_blank')">PDF</button></td>
   </tr>
    <tr>
     <td>Representing discourses as networks: potential applications of TheSu XML in network analysis for the history of ideas and science</td>
