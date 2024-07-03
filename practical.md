@@ -41,7 +41,9 @@ The conference is an on-site event, but the sessions will be streamed on Zoom. Y
 ## Lausanne
 ### Transportation
 
-The University of Lausanne campus is well served by the M1 metro line. The journey takes about ten minutes from the city center (Lausanne-Flon stop) to the university (UNIL-Chamberonne stop) and costs CHF 3.70 (one-way full fare). Lausanne is well integrated into the rail network, with excellent TGV connections from Paris in the west, EuroCity from Milan in the east, and ICE from the north, via Basel or Zurich. The nearest international airport is in Geneva, a 45min-1h train ride from Lausanne. 
+The University of Lausanne campus is well served by the M1 metro line. The journey takes about ten minutes from the city center (Lausanne-Flon stop) to the university (UNIL-Chamberonne stop) and costs CHF 3.70 (one-way full fare). Note that if you booked a room in a hotel in Lausanne, you're entitled to free travel on our public transport system! When you arrive at your hotel, don't forget to ask for your ["Lausanne transport card"](https://www.lausanne-tourisme.ch/en/lausanne-transport-card-and-more/). 
+
+Lausanne is well integrated into the rail network, with excellent TGV connections from Paris in the West, EuroCity from Milan in the East, and ICE from the North, via Basel or Zurich. The nearest international airport is in Geneva, a 45min-1h train ride from Lausanne. 
 
 ### Accommodation
 
