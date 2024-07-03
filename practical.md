@@ -54,3 +54,6 @@ The conference has no specific recommendations for accommodation. Note that Laus
 * [Touristic map of Lausanne](https://issuu.com/jiempe/docs/lt_plan_ville_2023_bloca3_web_lmo?fr=xKAE9_zU1NQ) (useful for understanding the city center and the two metro lines)
 * [Must-Sees](https://issuu.com/jiempe/docs/lt_incontournables_2023_en_web_dp?fr=xKAE9_zU1NQ) (Lausanne district by district)
 
+We have also prepared a map with suggestions for walks and places to see:
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1vXeig7ES64SCDldVibs4yKRU8Fl-Uz0&ehbc=2E312F" width="640" height="480"></iframe>
