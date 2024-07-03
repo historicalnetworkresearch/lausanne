@@ -43,6 +43,7 @@ ___
 Monday 8 July will consist of two workshops, followed by the opening plenary session. Registration for the workshops is independent of the conference: [informations and registration here](/lausanne/workshops). 
 
 ## 9:00-12:30 WORKSHOP 1
+ROOM 1
 <table>
  <tr>
     <td><b>Visual Network Analysis</b></td>
@@ -52,6 +53,7 @@ Monday 8 July will consist of two workshops, followed by the opening plenary ses
 </table>
 
 ## 14:00-17:30 WORKSHOP 2
+ROOM 1
 <table>
  <tr>
     <td><b>Historical network analysis with nodegoat</b></td>
@@ -61,6 +63,7 @@ Monday 8 July will consist of two workshops, followed by the opening plenary ses
 </table>
 
 ## 18:00-19:30 PLENARY A
+PLENARY HALL - Chair: Martin Grandjean
 <table>
  <tr>
     <td><b>Opening keynote</b> | Irreductionist network visualization</td>
@@ -75,6 +78,7 @@ ___
 
 ## 9:00-10:30 PLENARY B
 ### Opening session
+PLENARY HALL
 <table>
  <tr>
     <td><b>Introduction to the conference</b> | The State of Historical Network Research: A Perspective from the 2024 Conference</td>
@@ -91,6 +95,7 @@ ___
 ## 11:00-12:30 PARALLEL SESSIONS
 
 ### SESSION 1: Long papers
+ROOM 1 - Chair: Marten Düring
 <table>
  <tr>
     <td>Networks of Confessional Affiliation: Religious Choice and the Schism of Utrecht</td>
@@ -110,6 +115,7 @@ ___
 </table>
 
 ### SESSION 2: Long papers
+ROOM 2 - Chair: Martin Grandjean
 <table>
   <tr>
     <td>Le marché foncier à Lausanne au 19e siècle. Mutations et réseaux des protagonistes</td>
@@ -132,6 +138,7 @@ ___
 ## 14:00-15:30 PARALLEL SESSIONS
 
 ### SESSION 3: Long papers
+ROOM 1 - Chair: Lucas Rappo
 <table>
   <tr>
     <td>Les réseaux urbains lyonnais pendant la guerre civile (1589-1594)</td>
@@ -153,6 +160,7 @@ ___
 
 
 ### SESSION 4: Short papers
+ROOM 2 - Chair: Aline Deicke
 <table>
   <tr>
     <td>Religious Networks in Late Babylonian Period (RelNet)</td>
@@ -184,6 +192,7 @@ ___
 ## 16.00-17:30 PARALLEL SESSIONS
 
 ### SESSION 5: Long papers
+ROOM 1 - Chair: Martin Grandjean
 <table>
   <tr>
     <td>Analysing artistic network of the Basilian order in Eighteenth-Century Poland-Lithuania: a digital humanities approach</td>
@@ -198,6 +207,7 @@ ___
 </table>
 
 ### SESSION 6: Short papers
+ROOM 2 - Chair: Minja Bujakovic
 <table>
   <tr>
     <td>Viewsari: New Perspectives on Historical Network Analysis in Giorgio Vasari's The Lives Using Knowledge Graphs</td>
@@ -227,6 +237,7 @@ ___
 
 ## 9:00-10:30 PARALLEL SESSIONS
 ### SESSION 7: Long papers
+ROOM 1 - Chair: Giulia Clarizia
 <table>
   <tr>
     <td>Gender diversity in the historical networks of Soviet film production</td>
@@ -246,6 +257,7 @@ ___
 </table>
 
 ### SESSION 8: Long papers
+ROOM 2 - Chair: Malte Vogl
 <table>
   <tr>
     <td>L'analyse de réseaux pour l'étude des coopérations intergouvernementales : le cas du Bureau International d'Éducation (1929-1952)</td>
@@ -266,6 +278,7 @@ ___
 
 ## 11:00-12:30 PARALLEL SESSIONS
 ### SESSION 9: Long papers
+ROOM 1 - Chair: Martin Grandjean
 <table>
   <tr>
     <td>Exploring Biographical Networks of Person Objects from Newspaper Clippings in Herder Institute</td>
@@ -285,6 +298,7 @@ ___
 </table>
 
 ### SESSION 10: Short papers
+ROOM 2 - Chair: Alix Heiniger
 <table>
   <tr>
     <td>Networks of Displacement: Spatial and Temporal Dynamics of Post-WWII Migration and Resettlement</td>
@@ -315,6 +329,7 @@ ___
 
 ## 14:00-15:30 PARALLEL SESSIONS
 ### SESSION 11: Long papers
+ROOM 1 - Chair: Emeline Brylinksi
 <table>
   <tr>
     <td>Networks and textual production during the Middle Ages (12th-15th centuries)</td>
@@ -334,6 +349,7 @@ ___
 </table>
 
 ### SESSION 12: Short papers
+ROOM 2 - Chair: Zef Segal
 <table>
   <tr>
     <td>Mapping Anglo-Swiss Travel Writing in the 17th and 18th Century</td>
@@ -363,7 +379,7 @@ ___
 </table>
 
 ## 16:00-17:30 PLENARY C
-
+PLENARY HALL - Chair: Martin Grandjean
 <table>
  <tr>
     <td><b>Closing keynote</b></td>
