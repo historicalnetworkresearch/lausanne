@@ -8,7 +8,7 @@ cover: false
 ---
 
 # Program
-The program of the Historical Network Research Conference 2024 includes 23 long papers, 19 short papers, 3 keynotes and 2 workshops. It will bring together colleagues from over fifteen countries. Please note that [workshop registration](/lausanne/workshops) is separate from the [conference registration](https://hnr2024.sciencesconf.org/) (but also free of charge).
+The program of the Historical Network Research Conference 2024 includes 23 long papers, 19 short papers, 3 keynotes and 2 workshops. It will bring together colleagues from over fifteen countries. Please note that [workshop registration](/lausanne/workshops) is separate from the [conference registration](https://hnr2024.sciencesconf.org/) (but also free of charge). Please also have a look at the [book of abstracts](/lausanne/abstracts)!
 
 <a href="https://historicalnetworkresearch.github.io/lausanne/program/"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/lausanne/master/img/hnr2024%20program3.png"></a>
 
@@ -83,7 +83,7 @@ PLENARY HALL
  <tr>
     <td><b>Introduction to the conference</b> | The State of Historical Network Research: A Perspective from the 2024 Conference</td>
     <td>Martin Grandjean</td>
-    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606760','_blank')">PDF</button></td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12664647','_blank')">PDF</button></td>
   </tr>
   <tr>
     <td><b>HNR Keynote</b></td>
@@ -100,7 +100,7 @@ ROOM 1 - Chair: Marten Düring
  <tr>
     <td>Networks of Confessional Affiliation: Religious Choice and the Schism of Utrecht</td>
     <td>Jaap Geraerts, Demival Vasques Filho</td>
-   <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12664647','_blank')">PDF</button></td>
+   <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12605967','_blank')">PDF</button></td>
   </tr>
   <tr>
     <td>Emerging Maximilian: temporal co-occurrences network analysis of people mentioned in Regesta Imperii XIII</td>
@@ -212,7 +212,7 @@ ROOM 2 - Chair: Minja Bujakovic
   <tr>
     <td>Viewsari: New Perspectives on Historical Network Analysis in Giorgio Vasari's The Lives Using Knowledge Graphs</td>
     <td>Sarah Rebecca Ondraszek, Harald Sack, Etienne Posthumus</td>
-    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12664672','_blank')">PDF</button></td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606713','_blank')">PDF</button></td>
   </tr>
   <tr>
     <td>Shaping British Digital Art: the Global Network of the Computer Arts Society, 1968-1985</td>
@@ -247,7 +247,7 @@ ROOM 1 - Chair: Giulia Clarizia
   <tr>
     <td>Tracing the Network Continuity: From the Socialist to the Communist Women's Movement (1907-1934)</td>
     <td>Minja Bujakovic</td>
-    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606097','_blank')">PDF</button></td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12664672','_blank')">PDF</button></td>
   </tr>
   <tr>
     <td>The transfer of German pedagogical knowledge to Turkey through Turkish educators in the Early Republican Era: A historical social network study in the field of transnational education</td>
