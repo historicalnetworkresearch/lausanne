@@ -129,7 +129,7 @@ ROOM 2 - Chair: Martin Grandjean
   </tr>
   <tr>
     <td>Levantine Transitions. A Social Network Approach to Elite Formation in Urban Egypt, 1890-1914</td>
-    <td>Gert Huskens ⏺️, Jan Vandersmissen, Christophe Verbruggen, Julie Birkholz</td>
+    <td>Gert Huskens ▶︎, Jan Vandersmissen, Christophe Verbruggen, Julie Birkholz</td>
     <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12599077','_blank')">PDF</button></td>
   </tr>
 </table>
