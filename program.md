@@ -124,7 +124,7 @@ ROOM 2 - Chair: Martin Grandjean
   </tr>
   <tr>
     <td>Communicating about communication: Using graph comics to explore communication networks in letters of Early Romanticism</td>
-    <td>Elena Suárez Cronauer, Aline Deicke, Laura Fath</td>
+    <td>Elena Suárez Cronauer, Aline Deicke ▶︎, Laura Fath</td>
     <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12598627','_blank')">PDF</button></td>
   </tr>
   <tr>
@@ -160,7 +160,7 @@ ROOM 1 - Chair: Lucas Rappo
 
 
 ### SESSION 4: Short papers
-ROOM 2 - Chair: Aline Deicke
+ROOM 2 - Chair: Martin Grandjean
 <table>
   <tr>
     <td>Religious Networks in Late Babylonian Period (RelNet)</td>
