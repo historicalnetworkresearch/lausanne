@@ -322,7 +322,7 @@ ROOM 2 - Chair: Alix Heiniger
   </tr>
  <tr>
     <td>Containing complexity: Networks of expertise and the emergence of genetic epidemiology, 1900-1990</td>
-    <td>Carolina Mayes, Rhodri Leng</td>
+    <td>Carolina Mayes ⏺️, Rhodri Leng</td>
     <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606399','_blank')">PDF</button></td>
   </tr>
 </table>
@@ -373,7 +373,7 @@ ROOM 2 - Chair: Zef Segal
   </tr>
  <tr>
     <td>Radical translators (Britain, France and Italy, 1789-1815) through the lens of a network visualisation</td>
-    <td>Miguel Vieira, Arianna Ciula, Rosa Mucignat, Sanja Perovic</td>
+    <td>Miguel Vieira ⏺️, Arianna Ciula, Rosa Mucignat, Sanja Perovic</td>
     <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606575','_blank')">PDF</button></td>
   </tr>
 </table>
