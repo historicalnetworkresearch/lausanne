@@ -367,9 +367,9 @@ ROOM 2 - Chair: Zef Segal
     <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606467','_blank')">PDF</button></td>
   </tr>
   <tr>
-    <td>Mapping the networks of the Accademia dei Nobili della Giudecca: a sous-champ of the 18th Venetian Reforming Era</td>
+    <td>Mapping the networks of the Accademia dei Nobili della Giudecca: a sous-champ of the 18th-Century Venetian Reforming Era</td>
     <td>Filippo Soramel, Bastien Tourenc</td>
-    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12606534','_blank')">PDF</button></td>
+    <td><button class="button button2" onclick=" window.open('https://doi.org/10.5281/zenodo.12686486','_blank')">PDF</button></td>
   </tr>
  <tr>
     <td>Radical translators (Britain, France and Italy, 1789-1815) through the lens of a network visualisation</td>
