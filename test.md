@@ -42,7 +42,7 @@ Jaap Geraerts, Demival Vasques Filho
 
 <div class='altmetric-embed' data-badge-type='bar' data-badge-popover='right' data-doi="10.5281/zenodo.4745006"></div>
 
-<div class='altmetric-embed' data-badge-type='bar' data-badge-popover='right' data-doi="10.5281/zenodo.4745005"></div>
+<div class='altmetric-embed' data-badge-type='bar' data-badge-popover='right' data-doi="10.5281/zenodo.12665443"></div>
 
 
 <table>
@@ -54,12 +54,12 @@ Jaap Geraerts, Demival Vasques Filho
   <tr>
     <td>Networks of Confessional Affiliation: Religious Choice and the Schism of Utrecht</td>
     <td>Jaap Geraerts, Demival Vasques Filho</td>
-    <td><div class='altmetric-embed' data-badge-type='donut' data-badge-popover='right' data-doi="10.5281/zenodo.12532492"></div></td>
+    <td><div class='altmetric-embed' data-badge-type='donut' data-badge-popover='right' data-doi="10.5281/zenodo.12665443"></div></td>
   </tr>
     <tr>
     <td>Networks of Confessional Affiliation: Religious Choice and the Schism of Utrecht</td>
     <td>Jaap Geraerts, Demival Vasques Filho</td>
-    <td><div class='altmetric-embed' data-badge-type='1' data-badge-popover='right' data-doi="10.5281/zenodo.12532492"></div></td>
+    <td><div class='altmetric-embed' data-badge-type='1' data-badge-popover='right' data-doi="10.5281/zenodo.12665443"></div></td>
   </tr>
 
 
